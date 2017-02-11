@@ -1,0 +1,87 @@
+body{
+    .reset;
+    .clearfix;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'DejaVu Sans Condensed', sans-serif;
+    font-size:16px;
+    color:@color-font;
+    #wrapper{
+        .reset;
+        .clearfix;
+        width:960px;
+        ul{
+            .reset;
+            .clearfix;
+            list-style-type:none;
+            margin-left:50px;
+            margin-top:205px;
+            li{
+                display:inline-block;
+                border:1px solid @color-borders;
+                .gradient-color(@color-light, @color-main);
+                padding:5px 15px;
+                
+                &:hover{
+                    .gradient-color(@color-hover, @color-hover);
+                    border-top:none;
+
+                    div{
+                        display:inline;
+                        >ul{
+                            .reset;
+                            .clearfix;
+                            display:block;
+                            position:relative;
+                            li{
+
+                            }
+                            background-color:@color-main;
+                            border:1px solid @color-borders;
+                            border-bottom:none;
+                            border-radius:15px;
+                        }
+                     }
+                }
+                div{
+                    display:none;
+                }
+                a{
+                    color:@color-font;
+                    text-decoration:none;
+                }
+            }
+        }/*ul msg bar bracket*/
+    }/*wrapper bracket*/
+}/*body bracket*/
+
+
+/*functions*/
+/*color*/
+.gradient-color(@from, @to, @repeat:no-repeat){
+    background-image: -webkit-linear-gradient(top, @from, @to);
+    background-image: -moz-linear-gradient(top, @from, @to);
+    background-image: -ms-linear-gradient(top, @from, @to);
+    background-image: -o-linear-gradient(top, @from, @to);
+    background-image: linear-gradient(to bottom, @from, @to);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{@from}', endColorstr='#{@to}',GradientType=0 );
+	background-repeat:@repeat;
+}
+/*clear and reset everything*/
+.clearfix {
+    clear: both;
+    display:block;
+    content:"\00A0";
+}
+.reset {
+    margin: 0;
+    padding:0;
+    border: 0
+    }
+/*variables*/
+@color-light:#eeeeee;
+@color-main:#33FFCC;
+@color-hover:#33CCCC;
+@color-font:#3366CC;
+@color-me-item:#33FFFF;
+@color-toshko-item:#00FF33;
+@color-borders:black;
+@color-boxes:mix(@color-light, @color-main, 60%);

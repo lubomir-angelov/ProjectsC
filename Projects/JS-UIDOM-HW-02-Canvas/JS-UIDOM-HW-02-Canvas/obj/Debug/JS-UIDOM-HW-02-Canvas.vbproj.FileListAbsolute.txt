@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-UIDOM-HW-02-Canvas\JS-UIDOM-HW-02-Canvas\bin\JS-UIDOM-HW-02-Canvas.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-UIDOM-HW-02-Canvas\JS-UIDOM-HW-02-Canvas\bin\JS-UIDOM-HW-02-Canvas.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-UIDOM-HW-02-Canvas\JS-UIDOM-HW-02-Canvas\bin\JS-UIDOM-HW-02-Canvas.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-UIDOM-HW-02-Canvas\JS-UIDOM-HW-02-Canvas\bin\JS-UIDOM-HW-02-Canvas.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-UIDOM-HW-02-Canvas\JS-UIDOM-HW-02-Canvas\obj\Debug\JS_UIDOM_HW_02_Canvas.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-UIDOM-HW-02-Canvas\JS-UIDOM-HW-02-Canvas\obj\Debug\JS-UIDOM-HW-02-Canvas.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-UIDOM-HW-02-Canvas\JS-UIDOM-HW-02-Canvas\obj\Debug\JS-UIDOM-HW-02-Canvas.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-UIDOM-HW-02-Canvas\JS-UIDOM-HW-02-Canvas\obj\Debug\JS-UIDOM-HW-02-Canvas.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-UIDOM-HW-02-Canvas\JS-UIDOM-HW-02-Canvas\obj\Debug\JS-UIDOM-HW-02-Canvas.pdb

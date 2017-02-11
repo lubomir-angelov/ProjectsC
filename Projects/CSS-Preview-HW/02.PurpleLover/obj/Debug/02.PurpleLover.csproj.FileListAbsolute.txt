@@ -1,0 +1,5 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\02.PurpleLover\bin\02.PurpleLover.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\02.PurpleLover\bin\02.PurpleLover.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\02.PurpleLover\bin\02.PurpleLover.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\02.PurpleLover\obj\Debug\02.PurpleLover.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\02.PurpleLover\obj\Debug\02.PurpleLover.pdb

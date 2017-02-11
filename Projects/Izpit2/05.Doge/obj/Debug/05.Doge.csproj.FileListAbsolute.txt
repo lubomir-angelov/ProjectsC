@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\05.Doge\bin\Debug\05.Doge.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\05.Doge\bin\Debug\05.Doge.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\05.Doge\bin\Debug\05.Doge.pdb
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\05.Doge\obj\Debug\05.Doge.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\05.Doge\obj\Debug\05.Doge.pdb

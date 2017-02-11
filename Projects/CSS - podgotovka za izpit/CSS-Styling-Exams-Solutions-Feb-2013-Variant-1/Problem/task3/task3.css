@@ -1,0 +1,200 @@
+﻿body {
+  font-family: Cambria, 'Times New Roman', 'Nimbus Roman No9 L', 'Freeserif', Times, serif;
+  font-size: 16px;
+  color: dimgray;
+  /*div#wrapper bracket*/
+}
+body div#wrapper {
+  width: 960px;
+  /*div bracket*/
+}
+body div#wrapper div {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-image: -webkit-linear-gradient(top, #eeeeee, #aaaaaa);
+  background-image: -moz-linear-gradient(top, #eeeeee, #aaaaaa);
+  background-image: -ms-linear-gradient(top, #eeeeee, #aaaaaa);
+  background-image: -o-linear-gradient(top, #eeeeee, #aaaaaa);
+  background-image: linear-gradient(to bottom, #eeeeee, #aaaaaa);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{@from}', endColorstr='#{@to}', GradientType=0);
+  background-repeat: none;
+  border: 1px solid #000000;
+  border-radius: 15px;
+  width: 380px;
+  margin-left: 30px;
+  margin-top: 30px;
+  /*ul bracket*/
+}
+body div#wrapper div h1 {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  margin: 20px 30px 15px 30px;
+  font-size: 1.7em;
+}
+body div#wrapper div ul {
+  clear: both;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style-type: none;
+  display: block;
+  position: relative;
+}
+body div#wrapper div ul li.me-item {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  clear: both;
+  display: block;
+  content: "\00A0";
+  background-image: -webkit-linear-gradient(top, #33ffff, #eeeeee);
+  background-image: -moz-linear-gradient(top, #33ffff, #eeeeee);
+  background-image: -ms-linear-gradient(top, #33ffff, #eeeeee);
+  background-image: -o-linear-gradient(top, #33ffff, #eeeeee);
+  background-image: linear-gradient(to bottom, #33ffff, #eeeeee);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{@from}', endColorstr='#{@to}', GradientType=0);
+  background-repeat: none;
+  border: 1px solid #000000;
+  border-radius: 15px;
+  display: inline-block;
+  position: relative;
+  margin-left: 100px;
+  margin-bottom: 5px;
+  padding: 5px 15px;
+  width: 230px;
+}
+body div#wrapper div ul li.me-item p {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  padding: 3px 0;
+}
+body div#wrapper div ul li.me-item span {
+  padding: 0;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+body div#wrapper div ul li.me-item span.date {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  clear: both;
+  content: "\00A0";
+  display: block;
+  position: relative;
+  text-align: right;
+  font-weight: normal;
+  font-family: Consolas;
+  font-size: 0.9em;
+  margin-bottom: 5px;
+}
+body div#wrapper div ul li.toshko-item {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  clear: both;
+  display: block;
+  content: "\00A0";
+  background-image: -webkit-linear-gradient(top, #eeeeee, #00ff33);
+  background-image: -moz-linear-gradient(top, #eeeeee, #00ff33);
+  background-image: -ms-linear-gradient(top, #eeeeee, #00ff33);
+  background-image: -o-linear-gradient(top, #eeeeee, #00ff33);
+  background-image: linear-gradient(to bottom, #eeeeee, #00ff33);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{@from}', endColorstr='#{@to}', GradientType=0);
+  background-repeat: none;
+  border: 1px solid #000000;
+  border-radius: 15px;
+  position: relative;
+  width: 230px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+  padding: 10px 15px;
+}
+body div#wrapper div ul li.toshko-item p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  clear: both;
+  display: block;
+  content: "\00A0";
+  padding: 5px 0;
+}
+body div#wrapper div ul li.toshko-item span {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  clear: both;
+  display: block;
+  content: "\00A0";
+  font-weight: bold;
+  text-align: right;
+}
+body div#wrapper div ul li.toshko-item span.date {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  clear: both;
+  display: block;
+  content: "\00A0";
+  font-family: Consolas;
+  font-weight: normal;
+  text-align: left;
+}
+body div#wrapper div input {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  clear: both;
+  display: block;
+  content: "\00A0";
+  width: 275px;
+  height: 35px;
+  margin-left: 15px;
+  border-radius: 5px;
+}
+body div#wrapper div button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  clear: both;
+  content: "\00A0";
+  display: block;
+  position: static;
+  width: 70px;
+  height: 30px;
+  margin-left: 295px;
+  margin-top: -35px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  color: black;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+/*bodybracket*/
+/*functions*/
+/*color*/
+/*clear and reset everything*/
+.clearfix {
+  clear: both;
+  display: block;
+  content: "\00A0";
+}
+.reset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+/*variables*/
+/*# sourceMappingURL=task3.css.map */

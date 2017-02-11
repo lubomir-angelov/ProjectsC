@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\07.ConcatenationStrObjVar\bin\Debug\07.ConcatenationStrObjVar.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\07.ConcatenationStrObjVar\bin\Debug\07.ConcatenationStrObjVar.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\07.ConcatenationStrObjVar\bin\Debug\07.ConcatenationStrObjVar.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\07.ConcatenationStrObjVar\obj\Debug\07.ConcatenationStrObjVar.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\07.ConcatenationStrObjVar\obj\Debug\07.ConcatenationStrObjVar.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\07.ConcatenationStrObjVar\obj\Debug\07.ConcatenationStrObjVar.pdb

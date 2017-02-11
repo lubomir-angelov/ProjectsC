@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\05-07.GenericClass\bin\Debug\05-07.GenericClass.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\05-07.GenericClass\bin\Debug\05-07.GenericClass.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\05-07.GenericClass\bin\Debug\05-07.GenericClass.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\05-07.GenericClass\obj\Debug\05-07.GenericClass.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\05-07.GenericClass\obj\Debug\05-07.GenericClass.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\05-07.GenericClass\obj\Debug\05-07.GenericClass.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\16.DefiningClassesPart2 - HW\05-07.GenericClass\bin\Debug\05-07.GenericClass.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\16.DefiningClassesPart2 - HW\05-07.GenericClass\obj\Debug\05-07.GenericClass.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\16.DefiningClassesPart2 - HW\05-07.GenericClass\obj\Debug\05-07.GenericClass.pdb

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\MarketingFirmRecords\bin\Debug\MarketingFirmRecords.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\MarketingFirmRecords\bin\Debug\MarketingFirmRecords.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\MarketingFirmRecords\bin\Debug\MarketingFirmRecords.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\MarketingFirmRecords\obj\Debug\10.MarketingFirmRecords.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\MarketingFirmRecords\obj\Debug\MarketingFirmRecords.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\MarketingFirmRecords\obj\Debug\MarketingFirmRecords.pdb

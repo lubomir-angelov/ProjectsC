@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\05.FindMaxSequenceOfIdenticalNumbers\bin\Debug\05.FindMaxSequenceOfIdenticalNumbers.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\05.FindMaxSequenceOfIdenticalNumbers\bin\Debug\05.FindMaxSequenceOfIdenticalNumbers.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\05.FindMaxSequenceOfIdenticalNumbers\bin\Debug\05.FindMaxSequenceOfIdenticalNumbers.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\05.FindMaxSequenceOfIdenticalNumbers\obj\Debug\05.FindMaxSequenceOfIdenticalNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\05.FindMaxSequenceOfIdenticalNumbers\obj\Debug\05.FindMaxSequenceOfIdenticalNumbers.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\05.FindMaxSequenceOfIdenticalNumbers\obj\Debug\05.FindMaxSequenceOfIdenticalNumbers.pdb

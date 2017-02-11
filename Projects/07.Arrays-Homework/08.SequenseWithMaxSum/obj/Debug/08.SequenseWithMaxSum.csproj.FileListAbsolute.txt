@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\08.SequenseWithMaxSum\bin\Debug\08.SequenseWithMaxSum.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\08.SequenseWithMaxSum\bin\Debug\08.SequenseWithMaxSum.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\08.SequenseWithMaxSum\bin\Debug\08.SequenseWithMaxSum.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\08.SequenseWithMaxSum\obj\Debug\08.SequenseWithMaxSum.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\08.SequenseWithMaxSum\obj\Debug\08.SequenseWithMaxSum.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\08.SequenseWithMaxSum\obj\Debug\08.SequenseWithMaxSum.pdb

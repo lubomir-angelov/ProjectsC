@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\05.Laptops\bin\05.Laptops.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\05.Laptops\bin\05.Laptops.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\05.Laptops\bin\05.Laptops.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\05.Laptops\bin\05.Laptops.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\05.Laptops\obj\Debug\_05.Laptops.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\05.Laptops\obj\Debug\05.Laptops.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\05.Laptops\obj\Debug\05.Laptops.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\05.Laptops\obj\Debug\05.Laptops.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\05.Laptops\obj\Debug\05.Laptops.pdb

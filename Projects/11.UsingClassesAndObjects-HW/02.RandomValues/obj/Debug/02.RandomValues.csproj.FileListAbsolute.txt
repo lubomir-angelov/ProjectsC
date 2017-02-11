@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\02.RandomValues\bin\Debug\02.RandomValues.exe.config
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\02.RandomValues\bin\Debug\02.RandomValues.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\02.RandomValues\bin\Debug\02.RandomValues.pdb
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\02.RandomValues\obj\Debug\02.RandomValues.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\02.RandomValues\obj\Debug\02.RandomValues.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\02.RandomValues\obj\Debug\02.RandomValues.pdb

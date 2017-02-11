@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\06.PrintQuadEquationRoots\bin\Debug\06.PrintQuadEquationRoots.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\06.PrintQuadEquationRoots\bin\Debug\06.PrintQuadEquationRoots.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\06.PrintQuadEquationRoots\bin\Debug\06.PrintQuadEquationRoots.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\06.PrintQuadEquationRoots\obj\Debug\06.PrintQuadEquationRoots.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\06.PrintQuadEquationRoots\obj\Debug\06.PrintQuadEquationRoots.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\06.PrintQuadEquationRoots\obj\Debug\06.PrintQuadEquationRoots.csprojResolveAssemblyReference.cache

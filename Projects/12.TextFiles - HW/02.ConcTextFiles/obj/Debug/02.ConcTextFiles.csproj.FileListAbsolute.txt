@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\02.ConcTextFiles\bin\Debug\02.ConcTextFiles.exe.config
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\02.ConcTextFiles\bin\Debug\02.ConcTextFiles.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\02.ConcTextFiles\bin\Debug\02.ConcTextFiles.pdb
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\02.ConcTextFiles\obj\Debug\02.ConcTextFiles.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\02.ConcTextFiles\obj\Debug\02.ConcTextFiles.pdb
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\02.ConcTextFiles\obj\Debug\02.ConcTextFiles.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\02.ConcTextFiles\bin\Debug\02.ConcTextFiles.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\02.ConcTextFiles\obj\Debug\02.ConcTextFiles.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\02.ConcTextFiles\obj\Debug\02.ConcTextFiles.pdb

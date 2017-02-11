@@ -1,0 +1,8 @@
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CompareFloatingPNumbers\bin\Debug\CompareFloatingPNumbers.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CompareFloatingPNumbers\obj\Debug\CompareFloatingPNumbers.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CompareFloatingPNumbers\obj\Debug\CompareFloatingPNumbers.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\03.CompareFloatingPNumbers\bin\Debug\CompareFloatingPNumbers.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\03.CompareFloatingPNumbers\obj\Debug\CompareFloatingPNumbers.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\03.CompareFloatingPNumbers\obj\Debug\CompareFloatingPNumbers.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CompareFloatingPNumbers\bin\Debug\CompareFloatingPNumbers.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CompareFloatingPNumbers\bin\Debug\CompareFloatingPNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\18.BullsAndCows\bin\Debug\18.BullsAndCows.exe.config
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\18.BullsAndCows\bin\Debug\18.BullsAndCows.exe
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\18.BullsAndCows\bin\Debug\18.BullsAndCows.pdb
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\18.BullsAndCows\obj\Debug\18.BullsAndCows.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\18.BullsAndCows\obj\Debug\18.BullsAndCows.exe
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\18.BullsAndCows\obj\Debug\18.BullsAndCows.pdb

@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\02.Bunnies\bin\Debug\02.Bunnies.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\02.Bunnies\bin\Debug\02.Bunnies.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\02.Bunnies\bin\Debug\02.Bunnies.pdb
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\02.Bunnies\obj\Debug\02.Bunnies.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\02.Bunnies\obj\Debug\02.Bunnies.pdb

@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\05.NameDigit\bin\Debug\05.NameDigit.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\05.NameDigit\bin\Debug\05.NameDigit.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\05.NameDigit\bin\Debug\05.NameDigit.pdb
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\05.NameDigit\obj\Debug\05.NameDigit.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\05.NameDigit\obj\Debug\05.NameDigit.pdb

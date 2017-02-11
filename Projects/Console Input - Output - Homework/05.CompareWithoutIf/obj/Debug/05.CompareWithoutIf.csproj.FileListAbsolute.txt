@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\05.CompareWithoutIf\bin\Debug\05.CompareWithoutIf.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\05.CompareWithoutIf\bin\Debug\05.CompareWithoutIf.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\05.CompareWithoutIf\bin\Debug\05.CompareWithoutIf.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\05.CompareWithoutIf\obj\Debug\05.CompareWithoutIf.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\05.CompareWithoutIf\obj\Debug\05.CompareWithoutIf.pdb

@@ -1,0 +1,35 @@
+﻿body {
+}
+table{
+border-top: 2px solid lightgrey;
+border-left: 2px solid lightgrey;
+border-collapse: collapse;
+}
+td, th {
+    border-bottom: 2px solid lightgrey;
+    border-right: 2px solid lightgrey;
+}
+li 
+{
+    list-style-type: none;
+    display: inline;
+}
+#navigation {  
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    display:table-row;
+}
+#pageslist {
+    border-right: 0;
+}
+#buttonOne{
+    border-right: 0;
+}
+#buttonTwo {
+    border-left: 0;
+}
+#studentstable tr > td:first-child + td + td + td + td + td + td + td + td /* ninth column */
+ { 
+     font-weight:bold;
+ } /* http://stackoverflow.com/questions/157770/table-column-formatting */

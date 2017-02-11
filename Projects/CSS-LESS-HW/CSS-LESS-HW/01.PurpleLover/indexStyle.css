@@ -1,0 +1,223 @@
+﻿/*Please note the homework is done on a monitor 1280X800px if you are haveing problems with the aside items use zoom-in/out/
+/*we should use pixels:http://stackoverflow.com/questions/11799236/should-i-use-px-or-rem-in-my-css*/
+/*functions*/
+/*from http://forums.academy.telerik.com/62648/less-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-sample-logo-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1?show=62648#q62648*/
+/*answer of JuliaS*/
+/*variables*/
+/*clear and reset everything*/
+.clearfix {
+  clear: both;
+  display: block;
+  content: "\00A0";
+}
+.reset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #9933ff;
+  font-family: 'Times New Roman' sans-serif;
+  color: white;
+  /*header bracket*/
+}
+body header {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  /*
+        height:100%; - also does not fix the "line color bug"*/
+}
+body header div#header-container {
+  background-image: -webkit-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -moz-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -ms-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -o-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: linear-gradient(to bottom, #cc99ff, #9933ff);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{@from}', endColorstr='#{@to}', GradientType=0);
+  background-repeat: none;
+  padding: 10px;
+  /*fixes the "line color bug, but only on my monitor(pixels are relative)"*/
+  /*height:120%;
+            width:100%;
+            overflow:visible;
+            these do not fix the line that is left from the background with differnet color*/
+}
+body header div#reg-form-container {
+  display: inline-block;
+  position: absolute;
+  right: 80px;
+  top: 10px;
+}
+body header div#reg-form-container #tb-username,
+body header div#reg-form-container #tb-password {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  background-color: #b870ff;
+  width: 150px;
+  margin: 3px;
+  padding: 2px;
+}
+body header div#reg-form-container #tb-password {
+  margin-left: 4px;
+  padding-right: 3px;
+}
+body header #btn-register {
+  background-image: -webkit-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -moz-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -ms-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -o-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: linear-gradient(to bottom, #cc99ff, #9933ff);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{@from}', endColorstr='#{@to}', GradientType=0);
+  background-repeat: none;
+  display: block;
+  position: relative;
+  color: white;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 5px 20px;
+  text-align: center;
+  margin-top: 7px;
+  right: 20px;
+  width: 100px;
+}
+body header #btn-register:hover {
+  background-color: #cc99ff;
+  text-decoration: underline;
+}
+body header nav {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 900px;
+  margin-left: 20px;
+}
+body header nav ul {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body header nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  /*from JuliaS, see top, with some changes(small ones)*/
+}
+body header nav ul li a {
+  text-decoration: none;
+  color: #FFFFFF;
+  padding: 0 10px 0 10px;
+}
+body header nav ul li:hover > a {
+  text-decoration: underline;
+}
+body header nav ul li:hover > ul {
+  display: block;
+}
+body header nav ul li ul {
+  display: none;
+  position: relative;
+  background: #ca8df7;
+  opacity: 0.9;
+  border-radius: 10px;
+}
+body header nav ul li ul li {
+  display: block;
+  margin: 0 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid #000000;
+}
+body header nav ul li ul li:hover > a {
+  color: #9933ff;
+}
+body header nav ul li ul li:last-of-type {
+  border-bottom: none;
+}
+body section {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body section article {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  background-color: #9933ff;
+  margin: 20px 10px;
+  padding: 20px;
+  width: 820px;
+}
+body section article footer {
+  text-align: right;
+}
+body aside {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body aside ul {
+  list-style-type: none;
+  display: block;
+  position: absolute;
+  right: 80px;
+  top: 200px;
+}
+body aside ul li {
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 5px;
+  height: 200px;
+  width: 260px;
+  margin: 10px;
+}
+body aside ul li ul {
+  margin: 7px;
+}
+body aside ul li ul li {
+  display: block;
+  position: relative;
+  width: auto;
+  height: 20px;
+  top: 80px;
+  padding: 2px;
+  margin: 2px;
+  border: none;
+}
+body aside ul li em {
+  color: #cc99ff;
+}
+body footer {
+  text-align: center;
+  font-weight: 700;
+}
+body a {
+  text-decoration: none;
+  color: #cc99ff;
+}
+/*body bracket*/
+/*# sourceMappingURL=indexStyle.css.map */

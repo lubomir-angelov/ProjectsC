@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\16.SumOfNonConsecutiveNumbers\bin\Debug\16.SumOfNonConsecutiveNumbers.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\16.SumOfNonConsecutiveNumbers\bin\Debug\16.SumOfNonConsecutiveNumbers.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\16.SumOfNonConsecutiveNumbers\bin\Debug\16.SumOfNonConsecutiveNumbers.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\16.SumOfNonConsecutiveNumbers\obj\Debug\16.SumOfNonConsecutiveNumbers.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\16.SumOfNonConsecutiveNumbers\obj\Debug\16.SumOfNonConsecutiveNumbers.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\16.SumOfNonConsecutiveNumbers\obj\Debug\16.SumOfNonConsecutiveNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\EmployeeTable\bin\EmployeeTable.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\EmployeeTable\bin\EmployeeTable.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\EmployeeTable\bin\EmployeeTable.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\EmployeeTable\obj\Debug\EmployeeTable.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\EmployeeTable\obj\Debug\EmployeeTable.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\EmployeeTable\obj\Debug\EmployeeTable.pdb

@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\01.WebForm\bin\01.WebForm.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\01.WebForm\bin\01.WebForm.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\01.WebForm\bin\01.WebForm.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\01.WebForm\obj\Debug\01.WebForm.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\01.WebForm\obj\Debug\01.WebForm.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\01.WebForm\obj\Debug\01.WebForm.csprojResolveAssemblyReference.cache

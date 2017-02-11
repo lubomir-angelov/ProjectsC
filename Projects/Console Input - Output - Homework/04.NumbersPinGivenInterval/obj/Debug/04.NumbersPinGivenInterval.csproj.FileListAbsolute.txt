@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\04.NumbersPinGivenInterval\bin\Debug\04.NumbersPinGivenInterval.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\04.NumbersPinGivenInterval\bin\Debug\04.NumbersPinGivenInterval.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\04.NumbersPinGivenInterval\bin\Debug\04.NumbersPinGivenInterval.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\04.NumbersPinGivenInterval\obj\Debug\04.NumbersPinGivenInterval.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\04.NumbersPinGivenInterval\obj\Debug\04.NumbersPinGivenInterval.pdb

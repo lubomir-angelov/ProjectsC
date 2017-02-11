@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\ExchangeIntValues\bin\Debug\ExchangeIntValues.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\ExchangeIntValues\bin\Debug\ExchangeIntValues.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\ExchangeIntValues\bin\Debug\ExchangeIntValues.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\ExchangeIntValues\obj\Debug\ExchangeIntValues.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\ExchangeIntValues\obj\Debug\ExchangeIntValues.pdb

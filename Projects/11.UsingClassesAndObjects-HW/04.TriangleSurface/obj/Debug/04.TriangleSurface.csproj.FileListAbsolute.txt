@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\04.TriangleSurface\bin\Debug\04.TriangleSurface.pdb
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\04.TriangleSurface\obj\Debug\04.TriangleSurface.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb

@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\01.PrintOddLines\bin\Debug\01.PrintOddLines.exe.config
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\01.PrintOddLines\bin\Debug\01.PrintOddLines.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\01.PrintOddLines\bin\Debug\01.PrintOddLines.pdb
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\01.PrintOddLines\obj\Debug\01.PrintOddLines.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\01.PrintOddLines\obj\Debug\01.PrintOddLines.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\01.PrintOddLines\obj\Debug\01.PrintOddLines.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\01.PrintOddLines\bin\Debug\01.PrintOddLines.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\01.PrintOddLines\obj\Debug\01.PrintOddLines.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\01.PrintOddLines\obj\Debug\01.PrintOddLines.pdb

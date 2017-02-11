@@ -1,0 +1,9 @@
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\01.Matrix-nn\bin\Debug\01.Matrix-nn.exe.config
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\01.Matrix-nn\bin\Debug\01.Matrix-nn.exe
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\01.Matrix-nn\bin\Debug\01.Matrix-nn.pdb
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\01.Matrix-nn\obj\Debug\01.Matrix-nn.csprojResolveAssemblyReference.cache
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\01.Matrix-nn\obj\Debug\01.Matrix-nn.exe
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\01.Matrix-nn\obj\Debug\01.Matrix-nn.pdb
+D:\Programming\VisualStudioPrograms\Projects\greenlantern\HW_lubomir.angelov_Matrici-i-mnogomerni-masivi_2013-12-30_21-43\01.Matrix-nn\bin\Debug\01.Matrix-nn.exe.config
+D:\Programming\VisualStudioPrograms\Projects\greenlantern\HW_lubomir.angelov_Matrici-i-mnogomerni-masivi_2013-12-30_21-43\01.Matrix-nn\obj\Debug\01.Matrix-nn.exe
+D:\Programming\VisualStudioPrograms\Projects\greenlantern\HW_lubomir.angelov_Matrici-i-mnogomerni-masivi_2013-12-30_21-43\01.Matrix-nn\obj\Debug\01.Matrix-nn.pdb

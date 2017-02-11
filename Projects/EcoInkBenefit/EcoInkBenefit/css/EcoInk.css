@@ -1,0 +1,8 @@
+﻿body {
+    background-color:aliceblue;
+}
+ul {
+    display:inline;
+    list-style-type:none;
+    font-size:42px;
+}

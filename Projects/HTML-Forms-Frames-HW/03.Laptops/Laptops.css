@@ -1,0 +1,27 @@
+﻿body {
+}
+h1 {
+    color:blue;
+    text-decoration: underline;
+    font-size:large;
+    text-align:center;
+}
+hr {
+    width:100%;
+}
+.forms {
+    width:200px;
+    height:200px;
+    display:inline-block;
+}
+img {
+    height:50px;
+    width:80px;
+}
+#largest {
+    border:2px solid lightgray;
+}
+#evenlarger {
+    border-top:2px solid lightgray;
+}
+

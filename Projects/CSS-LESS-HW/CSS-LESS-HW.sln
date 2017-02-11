@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "01.PurpleLoverWithLess", "01.PurpleLoverWithLess\01.PurpleLoverWithLess.vbproj", "{73944583-02D4-4D16-A344-16BF03011709}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "test", "test\test.vbproj", "{8D6ACBB4-C077-4CCE-B3A8-F2B9ACB1C814}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "02.Images", "02.Images\02.Images.vbproj", "{64E80702-233D-4080-BF63-D1F8F5186EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73944583-02D4-4D16-A344-16BF03011709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73944583-02D4-4D16-A344-16BF03011709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73944583-02D4-4D16-A344-16BF03011709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73944583-02D4-4D16-A344-16BF03011709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6ACBB4-C077-4CCE-B3A8-F2B9ACB1C814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6ACBB4-C077-4CCE-B3A8-F2B9ACB1C814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6ACBB4-C077-4CCE-B3A8-F2B9ACB1C814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6ACBB4-C077-4CCE-B3A8-F2B9ACB1C814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E80702-233D-4080-BF63-D1F8F5186EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E80702-233D-4080-BF63-D1F8F5186EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E80702-233D-4080-BF63-D1F8F5186EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E80702-233D-4080-BF63-D1F8F5186EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\07.SumOfNMembers\bin\Debug\07.SumOfNMembers.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\07.SumOfNMembers\obj\Debug\07.SumOfNMembers.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\07.SumOfNMembers\bin\Debug\07.SumOfNMembers.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\07.SumOfNMembers\bin\Debug\07.SumOfNMembers.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\07.SumOfNMembers\obj\Debug\07.SumOfNMembers.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\07.SumOfNMembers\obj\Debug\07.SumOfNMembers.pdb

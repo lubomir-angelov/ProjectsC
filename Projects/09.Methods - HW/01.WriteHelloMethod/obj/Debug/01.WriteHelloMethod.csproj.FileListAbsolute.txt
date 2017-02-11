@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\01.WriteHelloMethod\bin\Debug\01.WriteHelloMethod.exe.config
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\01.WriteHelloMethod\bin\Debug\01.WriteHelloMethod.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\01.WriteHelloMethod\bin\Debug\01.WriteHelloMethod.pdb
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\01.WriteHelloMethod\obj\Debug\01.WriteHelloMethod.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\01.WriteHelloMethod\obj\Debug\01.WriteHelloMethod.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\01.WriteHelloMethod\obj\Debug\01.WriteHelloMethod.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\01.WriteHelloMethod\bin\Debug\01.WriteHelloMethod.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\01.WriteHelloMethod\obj\Debug\01.WriteHelloMethod.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\01.WriteHelloMethod\obj\Debug\01.WriteHelloMethod.pdb

@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\02.Images\bin\02.Images.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\02.Images\bin\02.Images.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\02.Images\bin\02.Images.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\02.Images\bin\02.Images.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\02.Images\obj\Debug\_02.Images.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\02.Images\obj\Debug\02.Images.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\02.Images\obj\Debug\02.Images.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\02.Images\obj\Debug\02.Images.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\02.Images\obj\Debug\02.Images.pdb

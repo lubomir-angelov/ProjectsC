@@ -1,0 +1,2 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\05.64BitValues\bin\Debug\05.64BitValues.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\05.64BitValues\obj\Debug\05.64BitValues.csprojResolveAssemblyReference.cache

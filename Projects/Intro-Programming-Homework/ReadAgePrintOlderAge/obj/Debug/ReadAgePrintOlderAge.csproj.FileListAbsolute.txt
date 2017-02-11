@@ -1,0 +1,12 @@
+c:\users\любо\documents\visual studio 2012\Projects\Hello\ReadAgePrintOlderAge\bin\Debug\ReadAgePrintOlderAge.exe.config
+c:\users\любо\documents\visual studio 2012\Projects\Hello\ReadAgePrintOlderAge\bin\Debug\ReadAgePrintOlderAge.exe
+c:\users\любо\documents\visual studio 2012\Projects\Hello\ReadAgePrintOlderAge\bin\Debug\ReadAgePrintOlderAge.pdb
+c:\users\любо\documents\visual studio 2012\Projects\Hello\ReadAgePrintOlderAge\obj\Debug\ReadAgePrintOlderAge.csprojResolveAssemblyReference.cache
+c:\users\любо\documents\visual studio 2012\Projects\Hello\ReadAgePrintOlderAge\obj\Debug\ReadAgePrintOlderAge.exe
+c:\users\любо\documents\visual studio 2012\Projects\Hello\ReadAgePrintOlderAge\obj\Debug\ReadAgePrintOlderAge.pdb
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\12.ReadAgePrintOlderAge\bin\Debug\ReadAgePrintOlderAge.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\12.ReadAgePrintOlderAge\obj\Debug\ReadAgePrintOlderAge.exe
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\12.ReadAgePrintOlderAge\obj\Debug\ReadAgePrintOlderAge.pdb
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\ReadAgePrintOlderAge\bin\Debug\ReadAgePrintOlderAge.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\ReadAgePrintOlderAge\obj\Debug\ReadAgePrintOlderAge.exe
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\ReadAgePrintOlderAge\obj\Debug\ReadAgePrintOlderAge.pdb

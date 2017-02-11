@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\06.BTV\bin\06.BTV.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\06.BTV\bin\06.BTV.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\06.BTV\bin\06.BTV.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\06.BTV\bin\06.BTV.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\06.BTV\obj\Debug\_06.BTV.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\06.BTV\obj\Debug\06.BTV.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\06.BTV\obj\Debug\06.BTV.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\06.BTV\obj\Debug\06.BTV.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\06.BTV\obj\Debug\06.BTV.pdb

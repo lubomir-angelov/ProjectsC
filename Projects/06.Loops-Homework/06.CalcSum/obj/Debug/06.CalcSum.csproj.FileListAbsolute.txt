@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\06.CalcSum\bin\Debug\06.CalcSum.exe.config
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\06.CalcSum\bin\Debug\06.CalcSum.exe
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\06.CalcSum\bin\Debug\06.CalcSum.pdb
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\06.CalcSum\obj\Debug\06.CalcSum.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\06.CalcSum\obj\Debug\06.CalcSum.exe
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\06.CalcSum\obj\Debug\06.CalcSum.pdb

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\03.LastDigitWord\bin\Debug\03.LastDigitWord.exe.config
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\03.LastDigitWord\obj\Debug\03.LastDigitWord.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\03.LastDigitWord\bin\Debug\03.LastDigitWord.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\03.LastDigitWord\bin\Debug\03.LastDigitWord.pdb
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\03.LastDigitWord\obj\Debug\03.LastDigitWord.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\03.LastDigitWord\obj\Debug\03.LastDigitWord.pdb

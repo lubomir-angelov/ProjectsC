@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\02.GradesTable\bin\02.GradesTable.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\02.GradesTable\bin\02.GradesTable.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\02.GradesTable\bin\02.GradesTable.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\02.GradesTable\obj\Debug\02.GradesTable.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\02.GradesTable\obj\Debug\02.GradesTable.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\02.GradesTable\obj\Debug\02.GradesTable.pdb

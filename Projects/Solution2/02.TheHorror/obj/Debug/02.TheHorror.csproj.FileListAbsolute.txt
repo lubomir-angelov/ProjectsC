@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Solution2\02.TheHorror\bin\Debug\02.TheHorror.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Solution2\02.TheHorror\bin\Debug\02.TheHorror.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\02.TheHorror\bin\Debug\02.TheHorror.pdb
+D:\Programming\VisualStudioPrograms\Projects\Solution2\02.TheHorror\obj\Debug\02.TheHorror.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\02.TheHorror\obj\Debug\02.TheHorror.pdb
+D:\Programming\VisualStudioPrograms\Projects\Solution2\02.TheHorror\obj\Debug\02.TheHorror.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\08.BinRep16bit\bin\Debug\08.BinRep16bit.exe.config
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\08.BinRep16bit\bin\Debug\08.BinRep16bit.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\08.BinRep16bit\bin\Debug\08.BinRep16bit.pdb
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\08.BinRep16bit\obj\Debug\08.BinRep16bit.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\08.BinRep16bit\obj\Debug\08.BinRep16bit.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\08.BinRep16bit\obj\Debug\08.BinRep16bit.pdb

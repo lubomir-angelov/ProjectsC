@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\01-04.3DManipulations\bin\Debug\01-04.3DManipulations.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\01-04.3DManipulations\obj\Debug\01-04.3DManipulations.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\01-04.3DManipulations\bin\Debug\01-04.3DManipulations.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\01-04.3DManipulations\bin\Debug\01-04.3DManipulations.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\01-04.3DManipulations\obj\Debug\01-04.3DManipulations.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\01-04.3DManipulations\obj\Debug\01-04.3DManipulations.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\16.DefiningClassesPart2 - HW\01-04.3DManipulations\bin\Debug\01-04.3DManipulations.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\16.DefiningClassesPart2 - HW\01-04.3DManipulations\obj\Debug\01-04.3DManipulations.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\16.DefiningClassesPart2 - HW\01-04.3DManipulations\obj\Debug\01-04.3DManipulations.pdb

@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\01.SubstringExtensinonMethod\bin\Debug\01.SubstringExtensinonMethod.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\01.SubstringExtensinonMethod\obj\Debug\01.SubstringExtensinonMethod.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\01.SubstringExtensinonMethod\bin\Debug\01.SubstringExtensinonMethod.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\01.SubstringExtensinonMethod\bin\Debug\01.SubstringExtensinonMethod.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\01.SubstringExtensinonMethod\obj\Debug\01.SubstringExtensinonMethod.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\01.SubstringExtensinonMethod\obj\Debug\01.SubstringExtensinonMethod.pdb

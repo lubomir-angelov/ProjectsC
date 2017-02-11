@@ -1,0 +1,2 @@
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\98.TEST\bin\Debug\98.TEST.exe.config
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\98.TEST\obj\Debug\98.TEST.csprojResolveAssemblyReference.cache

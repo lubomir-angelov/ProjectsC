@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\04.Calculator\bin\04.Calculator.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\04.Calculator\bin\04.Calculator.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\04.Calculator\bin\04.Calculator.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\04.Calculator\obj\Debug\04.Calculator.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\04.Calculator\obj\Debug\04.Calculator.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\04.Calculator\obj\Debug\04.Calculator.pdb

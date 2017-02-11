@@ -1,0 +1,32 @@
+19/01/2014 00:00:00 System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.ScoreEngine.LoadScores() in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\ScoreEngine.cs:line 62
+19/01/2014 00:00:00 System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.PrintEngine.PrintIntro(Player[] player) in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\PrintEngine.cs:line 273
+19/01/2014 00:00:00 System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.ScoreEngine.LoadScores() in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\ScoreEngine.cs:line 62
+19/01/2014 00:00:00 System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.PrintEngine.PrintIntro(Player[] player) in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\PrintEngine.cs:line 273
+19/01/2014 00:00:00 System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.ScoreEngine.LoadScores() in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\ScoreEngine.cs:line 62
+19/01/2014 00:00:00 System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.PrintEngine.PrintIntro(Player[] player) in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\PrintEngine.cs:line 273
+19/01/2014 00:00:00 System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.ScoreEngine.LoadScores() in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\ScoreEngine.cs:line 62
+19/01/2014 00:00:00 System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.PrintEngine.PrintIntro(Player[] player) in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\PrintEngine.cs:line 273
+19/01/2014 00:00:00 System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.ScoreEngine.LoadScores() in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\ScoreEngine.cs:line 62
+19/01/2014 00:00:00 System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.PrintEngine.PrintIntro(Player[] player) in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\PrintEngine.cs:line 273
+19/01/2014 00:00:00 System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.ScoreEngine.LoadScores() in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\ScoreEngine.cs:line 62
+19/01/2014 00:00:00 System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.PrintEngine.PrintIntro(Player[] player) in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\PrintEngine.cs:line 273
+19/01/2014 00:00:00 System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.ScoreEngine.LoadScores() in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\ScoreEngine.cs:line 62
+19/01/2014 00:00:00 System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.PrintEngine.PrintIntro(Player[] player) in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\PrintEngine.cs:line 273
+19/01/2014 00:00:00 System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.ScoreEngine.LoadScores() in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\ScoreEngine.cs:line 62
+19/01/2014 00:00:00 System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.PrintEngine.PrintIntro(Player[] player) in d:\Programming\VisualStudioPrograms\Projects\greenlantern\Game\Game\PrintEngine.cs:line 273

@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\17.DayOfWeekbulgarian\bin\Debug\17.DayOfWeekbulgarian.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\17.DayOfWeekbulgarian\bin\Debug\17.DayOfWeekbulgarian.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\17.DayOfWeekbulgarian\bin\Debug\17.DayOfWeekbulgarian.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\17.DayOfWeekbulgarian\obj\Debug\17.DayOfWeekbulgarian.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\17.DayOfWeekbulgarian\obj\Debug\17.DayOfWeekbulgarian.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\17.DayOfWeekbulgarian\obj\Debug\17.DayOfWeekbulgarian.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\17.DayOfWeekbulgarian\bin\Debug\17.DayOfWeekbulgarian.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\17.DayOfWeekbulgarian\obj\Debug\17.DayOfWeekbulgarian.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\17.DayOfWeekbulgarian\obj\Debug\17.DayOfWeekbulgarian.pdb

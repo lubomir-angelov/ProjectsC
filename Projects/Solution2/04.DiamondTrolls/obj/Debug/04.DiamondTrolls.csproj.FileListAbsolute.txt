@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Solution2\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Solution2\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\04.DiamondTrolls\bin\Debug\04.DiamondTrolls.pdb
+D:\Programming\VisualStudioPrograms\Projects\Solution2\04.DiamondTrolls\obj\Debug\04.DiamondTrolls.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Solution2\04.DiamondTrolls\obj\Debug\04.DiamondTrolls.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\04.DiamondTrolls\obj\Debug\04.DiamondTrolls.pdb

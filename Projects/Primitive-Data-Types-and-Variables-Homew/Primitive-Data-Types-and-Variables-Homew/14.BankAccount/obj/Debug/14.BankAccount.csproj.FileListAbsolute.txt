@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\14.BankAccount\bin\Debug\14.BankAccount.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\14.BankAccount\bin\Debug\14.BankAccount.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\14.BankAccount\obj\Debug\14.BankAccount.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\14.BankAccount\obj\Debug\14.BankAccount.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache

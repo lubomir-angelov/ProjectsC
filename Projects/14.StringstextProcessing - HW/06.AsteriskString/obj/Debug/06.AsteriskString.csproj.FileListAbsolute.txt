@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\06.AsteriskString\bin\Debug\06.AsteriskString.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\06.AsteriskString\obj\Debug\06.AsteriskString.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\06.AsteriskString\bin\Debug\06.AsteriskString.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\06.AsteriskString\bin\Debug\06.AsteriskString.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\06.AsteriskString\obj\Debug\06.AsteriskString.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\06.AsteriskString\obj\Debug\06.AsteriskString.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\06.AsteriskString\bin\Debug\06.AsteriskString.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\06.AsteriskString\obj\Debug\06.AsteriskString.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\06.AsteriskString\obj\Debug\06.AsteriskString.pdb

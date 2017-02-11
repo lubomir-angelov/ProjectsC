@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\08.UsersChoice\bin\Debug\08.UsersChoice.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\08.UsersChoice\obj\Debug\08.UsersChoice.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\08.UsersChoice\bin\Debug\08.UsersChoice.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\08.UsersChoice\bin\Debug\08.UsersChoice.pdb
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\08.UsersChoice\obj\Debug\08.UsersChoice.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\08.UsersChoice\obj\Debug\08.UsersChoice.pdb

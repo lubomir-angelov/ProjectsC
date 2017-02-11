@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Last Name</title>
+    <link type="text/css" rel="stylesheet"
+          href="WebForm.css" />
+</head>
+<body>
+    <form>
+        <table>
+            <thead></thead>
+            <tfoot>
+                <tr>
+                    <td id="lastrow" colspan="4">
+                        <input type="submit" value="Submit" />
+                        <input type="reset" name="Reset this form" value="Clear This Form" />
+                    </td>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <td id="rowa">
+                        <label for="lastName"> Last Name</label>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" id="lastName" />
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowb">
+                        <label for="firstName"> First Name </label>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" id="firstName" />
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowc">
+                        <label for="address"> Address </label>
+                    </td>
+                    <td colspan="3">
+                        <textarea name="address" id="address"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowd">
+                        <label for="city"> City </label>
+                    </td>
+                    <td>
+                        <input type="text" id="city" />
+                    </td>
+                    <td id="rowdd">
+                        <label for="state"> State </label>
+                    </td>
+                    <td>
+                        <input type="text" id="state" />
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowe">
+                        <label for="zip"> Zip/Postal Code </label>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" id="zip" />
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowf">
+                        <label id="country"> Country </label>
+                    </td>
+                    <td colspan="3">
+                        <select name="country" id="country">
+                            <option value="Value 1" selected="selected"> Arab Emirates </option>
+                            <option value="Value 2">Bulgaria</option>
+                            <option value="Value 3">Denmark</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowg">
+                        <label for="phone"> Phone(country code, area code, number) </label>
+                    </td>
+                    <td colspan="3">
+                        (+<input type="text" id="phoneOne"/>)
+                        <input type="text" id="phoneTwo"/> -
+                        <input type="text" id="phoneThree"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowh">
+                        <label for="email"> E-mail </label>
+                    </td>
+                    <td colspan="3">
+                        <input type="email" required="required" pattern="[^ @]*@[^ @].[^ @]" class="email"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowi" colspan="1">
+                        <label for="birthdate"> Birth date </label>
+                    </td>
+                    <td id="monthCell" colspan="1">
+                        <label for="month"> Month </label>
+                        <input type="text" id="month" />
+                    </td>
+                    <td id="dayCell" colspan="1">
+                        <label for="day"> Day </label>
+                        <input type="text" id="day" />
+                    </td>
+                    <td id="yearCell" colspan="1">
+                        <label for="year"> Year (4 digit)</label>
+                        <input type="text" id="year" />
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowj">
+                        <label for="gender"> Gender </label>
+                    </td>
+                    <td colspan="3">
+                        <select name="gender" id="gender">
+                            <option value="Value 1" selected="selected"> Male </option>
+                            <option value="Value 2"> Female </option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowk">
+                        <label for="101"> Starting date </label>
+                    </td>
+                    <td id="rowkk" colspan="3">
+                        <input type="radio" name="2006" id="spring" />
+                        <label for="spring"> Spring 2006 </label>
+                        <input type="radio" name="2006" id="summer" />
+                        <label for="summer"> Summer 2006 </label>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="rowl">
+                        <label for="comments"> Comments/Questions </label>
+                    </td>
+                    <td colspan="3">
+                        <textarea name="comments" id="comments" class="commentsq"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

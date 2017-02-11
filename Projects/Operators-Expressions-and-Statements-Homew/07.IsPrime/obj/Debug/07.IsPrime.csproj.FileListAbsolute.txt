@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\07.IsPrime\bin\Debug\07.IsPrime.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\07.IsPrime\bin\Debug\07.IsPrime.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\07.IsPrime\bin\Debug\07.IsPrime.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\07.IsPrime\obj\Debug\07.IsPrime.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\07.IsPrime\obj\Debug\07.IsPrime.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\07.IsPrime\obj\Debug\07.IsPrime.pdb

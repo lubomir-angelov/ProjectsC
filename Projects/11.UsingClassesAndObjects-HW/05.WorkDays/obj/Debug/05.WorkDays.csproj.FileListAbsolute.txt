@@ -1,0 +1,12 @@
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\bin\Debug\05.WorkDays.exe.config
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\bin\Debug\05.WorkDays.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\bin\Debug\05.WorkDays.pdb
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\obj\Debug\05.WorkDays.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\obj\Debug\05.WorkDays.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\obj\Debug\05.WorkDays.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\bin\Debug\05.WorkDays.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\obj\Debug\05.WorkDays.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\obj\Debug\05.WorkDays.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\bin\Debug\05.WorkDays.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\bin\Debug\05.WorkDays.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\05.WorkDays\obj\Debug\05.WorkDays.csprojResolveAssemblyReference.cache

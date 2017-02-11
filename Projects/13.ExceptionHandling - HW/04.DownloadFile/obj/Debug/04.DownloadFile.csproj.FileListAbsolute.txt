@@ -1,0 +1,8 @@
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\04.DownloadFile\obj\Debug\04.DownloadFile.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\04.DownloadFile\obj\Debug\04.DownloadFile.pdb

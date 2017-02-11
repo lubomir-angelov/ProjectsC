@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\04.SameLines\bin\Debug\04.SameLines.exe.config
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\04.SameLines\bin\Debug\04.SameLines.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\04.SameLines\bin\Debug\04.SameLines.pdb
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\04.SameLines\obj\Debug\04.SameLines.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\04.SameLines\obj\Debug\04.SameLines.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\04.SameLines\obj\Debug\04.SameLines.pdb

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\98.MaxSubsetSumOfNonConsecutive\bin\Debug\98.MaxSubsetSumOfNonConsecutive.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\98.MaxSubsetSumOfNonConsecutive\bin\Debug\98.MaxSubsetSumOfNonConsecutive.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\98.MaxSubsetSumOfNonConsecutive\bin\Debug\98.MaxSubsetSumOfNonConsecutive.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\98.MaxSubsetSumOfNonConsecutive\obj\Debug\98.MaxSubsetSumOfNonConsecutive.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\98.MaxSubsetSumOfNonConsecutive\obj\Debug\98.MaxSubsetSumOfNonConsecutive.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\98.MaxSubsetSumOfNonConsecutive\obj\Debug\98.MaxSubsetSumOfNonConsecutive.pdb

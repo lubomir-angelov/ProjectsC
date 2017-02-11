@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\EcoInkBenefit\EcoInkBenefit\bin\EcoInkBenefit.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\EcoInkBenefit\EcoInkBenefit\bin\EcoInkBenefit.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\EcoInkBenefit\EcoInkBenefit\bin\EcoInkBenefit.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\EcoInkBenefit\EcoInkBenefit\obj\Debug\EcoInkBenefit.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\EcoInkBenefit\EcoInkBenefit\obj\Debug\EcoInkBenefit.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\EcoInkBenefit\EcoInkBenefit\obj\Debug\EcoInkBenefit.pdb

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\10.CheckBitValueOfInt\bin\Debug\10.CheckBitValueOfInt.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\10.CheckBitValueOfInt\bin\Debug\10.CheckBitValueOfInt.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\10.CheckBitValueOfInt\bin\Debug\10.CheckBitValueOfInt.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\10.CheckBitValueOfInt\obj\Debug\10.CheckBitValueOfInt.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\10.CheckBitValueOfInt\obj\Debug\10.CheckBitValueOfInt.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\10.CheckBitValueOfInt\obj\Debug\10.CheckBitValueOfInt.pdb

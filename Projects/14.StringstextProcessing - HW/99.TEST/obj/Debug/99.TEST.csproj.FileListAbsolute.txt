@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\99.TEST\bin\Debug\99.TEST.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\99.TEST\bin\Debug\99.TEST.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\99.TEST\bin\Debug\99.TEST.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\99.TEST\obj\Debug\99.TEST.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\99.TEST\obj\Debug\99.TEST.pdb

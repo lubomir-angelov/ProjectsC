@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\13.MergeSort\bin\Debug\13.MergeSort.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\13.MergeSort\bin\Debug\13.MergeSort.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\13.MergeSort\bin\Debug\13.MergeSort.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\13.MergeSort\obj\Debug\13.MergeSort.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\13.MergeSort\obj\Debug\13.MergeSort.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\13.MergeSort\obj\Debug\13.MergeSort.pdb

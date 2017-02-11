@@ -1,0 +1,62 @@
+﻿body {
+    background-color:dimgray;
+    padding:15px
+}
+/* with help from http://forums.academy.telerik.com/54210/css-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-css-layout-2-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0?show=54210#q54210
+    font family,buttons*/
+h1 {
+    display:block;
+    position:relative;
+    left:15px;
+    font-family:Verdana;
+    font-size:1.2em;
+    font-weight:100;
+}
+body section.music-section {
+    background-color:lightgray;
+    display:block;
+    border: 1px solid gray;
+    border-radius:15px;
+    width:540px;
+    padding:10px
+}
+body article.categories {
+    display:block;
+    border: 1px solid gray;
+    margin: 30px 15px;
+    padding:5px;
+    width:500px;
+    height:150px;
+    background-color:white
+}
+body article img {
+    float:left;
+    height:110px;
+    width:150px;
+    margin:15px;
+    border:1px solid gray
+}
+body article .buttons {
+    display:block;
+    position:relative;
+    left:160px;
+}
+body article .button {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 0 10px 0 25px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 1.5em;
+}
+body article .button {
+    border-top: 2px solid #E38382;
+    border-right: 2px solid #650000;
+    border-bottom: 2px solid #650000;
+    border-left: 2px solid #9C2829;
+    background: #f00;
+    box-shadow: inset 15px 0 0 #8A0000;
+}
+body article .button:hover { 
+    text-decoration: underline; 
+}

@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\01.Shapes\bin\Debug\01.Shapes.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\01.Shapes\bin\Debug\01.Shapes.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\01.Shapes\bin\Debug\01.Shapes.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\01.Shapes\obj\Debug\01.Shapes.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\01.Shapes\obj\Debug\01.Shapes.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\19.OOPPart2 - HW\01.Shapes\bin\Debug\01.Shapes.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\19.OOPPart2 - HW\01.Shapes\obj\Debug\01.Shapes.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\19.OOPPart2 - HW\01.Shapes\obj\Debug\01.Shapes.pdb

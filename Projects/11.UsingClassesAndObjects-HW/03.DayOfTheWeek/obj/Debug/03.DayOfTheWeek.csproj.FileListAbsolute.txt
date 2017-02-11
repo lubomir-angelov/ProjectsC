@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe.config
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.pdb
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.pdb

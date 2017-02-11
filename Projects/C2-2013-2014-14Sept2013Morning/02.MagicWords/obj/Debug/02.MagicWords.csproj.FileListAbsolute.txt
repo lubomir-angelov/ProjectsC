@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\02.MagicWords\bin\Debug\02.MagicWords.exe.config
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\02.MagicWords\bin\Debug\02.MagicWords.exe
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\02.MagicWords\bin\Debug\02.MagicWords.pdb
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\02.MagicWords\obj\Debug\02.MagicWords.exe
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\02.MagicWords\obj\Debug\02.MagicWords.pdb
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\02.MagicWords\obj\Debug\02.MagicWords.csprojResolveAssemblyReference.cache

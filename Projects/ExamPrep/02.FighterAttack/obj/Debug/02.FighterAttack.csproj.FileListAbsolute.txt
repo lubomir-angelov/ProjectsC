@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\02.FighterAttack\bin\Debug\02.FighterAttack.exe.config
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\02.FighterAttack\bin\Debug\02.FighterAttack.exe
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\02.FighterAttack\bin\Debug\02.FighterAttack.pdb
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\02.FighterAttack\obj\Debug\02.FighterAttack.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\02.FighterAttack\obj\Debug\02.FighterAttack.exe
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\02.FighterAttack\obj\Debug\02.FighterAttack.pdb

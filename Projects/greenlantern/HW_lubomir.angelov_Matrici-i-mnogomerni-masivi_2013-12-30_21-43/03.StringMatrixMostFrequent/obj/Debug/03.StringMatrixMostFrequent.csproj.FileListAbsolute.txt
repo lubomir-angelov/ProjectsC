@@ -1,0 +1,9 @@
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\03.StringMatrixMostFrequent\bin\Debug\03.StringMatrixMostFrequent.exe.config
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\03.StringMatrixMostFrequent\bin\Debug\03.StringMatrixMostFrequent.exe
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\03.StringMatrixMostFrequent\bin\Debug\03.StringMatrixMostFrequent.pdb
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\03.StringMatrixMostFrequent\obj\Debug\03.StringMatrixMostFrequent.csprojResolveAssemblyReference.cache
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\03.StringMatrixMostFrequent\obj\Debug\03.StringMatrixMostFrequent.exe
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\03.StringMatrixMostFrequent\obj\Debug\03.StringMatrixMostFrequent.pdb
+D:\Programming\VisualStudioPrograms\Projects\greenlantern\HW_lubomir.angelov_Matrici-i-mnogomerni-masivi_2013-12-30_21-43\03.StringMatrixMostFrequent\bin\Debug\03.StringMatrixMostFrequent.exe.config
+D:\Programming\VisualStudioPrograms\Projects\greenlantern\HW_lubomir.angelov_Matrici-i-mnogomerni-masivi_2013-12-30_21-43\03.StringMatrixMostFrequent\obj\Debug\03.StringMatrixMostFrequent.exe
+D:\Programming\VisualStudioPrograms\Projects\greenlantern\HW_lubomir.angelov_Matrici-i-mnogomerni-masivi_2013-12-30_21-43\03.StringMatrixMostFrequent\obj\Debug\03.StringMatrixMostFrequent.pdb

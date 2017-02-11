@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-10.UsingObjects\JS-HW-10.UsingObjects\bin\JS-HW-10.UsingObjects.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-10.UsingObjects\JS-HW-10.UsingObjects\bin\JS-HW-10.UsingObjects.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-10.UsingObjects\JS-HW-10.UsingObjects\bin\JS-HW-10.UsingObjects.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-10.UsingObjects\JS-HW-10.UsingObjects\bin\JS-HW-10.UsingObjects.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-10.UsingObjects\JS-HW-10.UsingObjects\obj\Debug\JS_HW_10.UsingObjects.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-10.UsingObjects\JS-HW-10.UsingObjects\obj\Debug\JS-HW-10.UsingObjects.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-10.UsingObjects\JS-HW-10.UsingObjects\obj\Debug\JS-HW-10.UsingObjects.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-10.UsingObjects\JS-HW-10.UsingObjects\obj\Debug\JS-HW-10.UsingObjects.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-10.UsingObjects\JS-HW-10.UsingObjects\obj\Debug\JS-HW-10.UsingObjects.pdb

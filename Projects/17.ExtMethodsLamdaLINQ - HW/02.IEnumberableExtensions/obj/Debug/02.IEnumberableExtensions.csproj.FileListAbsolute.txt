@@ -1,0 +1,5 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\02.IEnumberableExtensions\bin\Debug\02.IEnumberableExtensions.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\02.IEnumberableExtensions\bin\Debug\02.IEnumberableExtensions.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\02.IEnumberableExtensions\bin\Debug\02.IEnumberableExtensions.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\02.IEnumberableExtensions\obj\Debug\02.IEnumberableExtensions.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\02.IEnumberableExtensions\obj\Debug\02.IEnumberableExtensions.pdb

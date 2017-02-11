@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\BAS-Test-25-10-14\bin\Debug\BAS-Test-25-10-14.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\BAS-Test-25-10-14\bin\Debug\BAS-Test-25-10-14.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\BAS-Test-25-10-14\bin\Debug\BAS-Test-25-10-14.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\BAS-Test-25-10-14\obj\Debug\BAS-Test-25-10-14.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\BAS-Test-25-10-14\obj\Debug\BAS-Test-25-10-14.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\BAS-Test-25-10-14\obj\Debug\BAS-Test-25-10-14.pdb

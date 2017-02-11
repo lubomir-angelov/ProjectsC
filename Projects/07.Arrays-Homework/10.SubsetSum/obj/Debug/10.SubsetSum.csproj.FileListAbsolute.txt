@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\10.SubsetSum\bin\Debug\10.SubsetSum.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\10.SubsetSum\bin\Debug\10.SubsetSum.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\10.SubsetSum\bin\Debug\10.SubsetSum.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\10.SubsetSum\obj\Debug\10.SubsetSum.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\10.SubsetSum\obj\Debug\10.SubsetSum.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\10.SubsetSum\obj\Debug\10.SubsetSum.pdb

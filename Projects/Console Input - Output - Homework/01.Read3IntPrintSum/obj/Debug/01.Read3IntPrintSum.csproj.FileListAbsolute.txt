@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\01.Read3IntPrintSum\bin\Debug\01.Read3IntPrintSum.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\01.Read3IntPrintSum\bin\Debug\01.Read3IntPrintSum.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\01.Read3IntPrintSum\bin\Debug\01.Read3IntPrintSum.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\01.Read3IntPrintSum\obj\Debug\01.Read3IntPrintSum.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\01.Read3IntPrintSum\obj\Debug\01.Read3IntPrintSum.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\01.Read3IntPrintSum\obj\Debug\01.Read3IntPrintSum.pdb

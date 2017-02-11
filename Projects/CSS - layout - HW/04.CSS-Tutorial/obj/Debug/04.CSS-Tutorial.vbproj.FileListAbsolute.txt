@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\04.CSS-Tutorial\bin\04.CSS-Tutorial.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\04.CSS-Tutorial\bin\04.CSS-Tutorial.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\04.CSS-Tutorial\bin\04.CSS-Tutorial.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\04.CSS-Tutorial\bin\04.CSS-Tutorial.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\04.CSS-Tutorial\obj\Debug\_04.CSS_Tutorial.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\04.CSS-Tutorial\obj\Debug\04.CSS-Tutorial.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\04.CSS-Tutorial\obj\Debug\04.CSS-Tutorial.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\04.CSS-Tutorial\obj\Debug\04.CSS-Tutorial.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\04.CSS-Tutorial\obj\Debug\04.CSS-Tutorial.pdb

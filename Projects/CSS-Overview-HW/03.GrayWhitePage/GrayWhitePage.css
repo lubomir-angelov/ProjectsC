@@ -1,0 +1,31 @@
+﻿body {
+    background-color:gray;
+}
+#main-h, #main-f {
+    text-align:center
+}
+h1{
+    color:#fafad2
+}
+ul {
+    list-style: none
+}
+.current {
+    color:white;
+    background-color:lightgray;
+    text-decoration: none
+}
+.whiteonly {
+    color:white;
+    text-decoration: none
+}
+#lastnavitem {
+    color:white;
+}
+.sec-f {
+    font-size:12px
+}
+.doncho {
+    color:black;
+    text-decoration:none
+}

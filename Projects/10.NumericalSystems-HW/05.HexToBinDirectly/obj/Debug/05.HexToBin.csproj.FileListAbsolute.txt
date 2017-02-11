@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\05.HexToBinDirectly\bin\Debug\05.HexToBinDirectly.exe.config
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\05.HexToBinDirectly\obj\Debug\05.HexToBinDirectly.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\05.HexToBinDirectly\obj\Debug\05.HexToBinDirectly.pdb
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\05.HexToBinDirectly\bin\Debug\05.HexToBinDirectly.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\05.HexToBinDirectly\bin\Debug\05.HexToBinDirectly.pdb

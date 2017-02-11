@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.Words\bin\Debug\19.Words.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.Words\bin\Debug\19.Words.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.Words\bin\Debug\19.Words.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.Words\obj\Debug\22.Words.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.Words\obj\Debug\19.Words.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.Words\obj\Debug\19.Words.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.Words\bin\Debug\19.Words.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.Words\obj\Debug\19.Words.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.Words\obj\Debug\19.Words.pdb

@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\11.PronounceNumber\bin\Debug\11.PronounceNumber.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\11.PronounceNumber\bin\Debug\11.PronounceNumber.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\11.PronounceNumber\bin\Debug\11.PronounceNumber.pdb
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\11.PronounceNumber\obj\Debug\11.PronounceNumber.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\11.PronounceNumber\obj\Debug\11.PronounceNumber.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\11.PronounceNumber\obj\Debug\11.PronounceNumber.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\11.PronounceNumber\bin\Debug\11.PronounceNumber.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\11.PronounceNumber\obj\Debug\11.PronounceNumber.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\11.PronounceNumber\obj\Debug\11.PronounceNumber.pdb

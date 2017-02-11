@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\03.ReadFilePrintContents\bin\Debug\03.ReadFilePrintContents.exe.config
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\03.ReadFilePrintContents\obj\Debug\03.ReadFilePrintContents.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\03.ReadFilePrintContents\bin\Debug\03.ReadFilePrintContents.exe
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\03.ReadFilePrintContents\bin\Debug\03.ReadFilePrintContents.pdb
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\03.ReadFilePrintContents\obj\Debug\03.ReadFilePrintContents.exe
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\03.ReadFilePrintContents\obj\Debug\03.ReadFilePrintContents.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\03.ReadFilePrintContents\bin\Debug\03.ReadFilePrintContents.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\03.ReadFilePrintContents\obj\Debug\03.ReadFilePrintContents.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\03.ReadFilePrintContents\obj\Debug\03.ReadFilePrintContents.pdb

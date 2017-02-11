@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\11.Falling-Rocks-Game\bin\Debug\11.Falling-Rocks-Game.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\11.Falling-Rocks-Game\bin\Debug\11.Falling-Rocks-Game.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\11.Falling-Rocks-Game\bin\Debug\11.Falling-Rocks-Game.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\11.Falling-Rocks-Game\obj\Debug\11.Falling-Rocks-Game.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\11.Falling-Rocks-Game\obj\Debug\11.Falling-Rocks-Game.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\11.Falling-Rocks-Game\obj\Debug\11.Falling-Rocks-Game.pdb

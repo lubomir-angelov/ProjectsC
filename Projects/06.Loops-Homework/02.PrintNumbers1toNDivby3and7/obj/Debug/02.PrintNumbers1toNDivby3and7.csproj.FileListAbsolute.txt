@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\02.PrintNumbers1toNDivby3and7\bin\Debug\02.PrintNumbers1toNDivby3and7.exe.config
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\02.PrintNumbers1toNDivby3and7\bin\Debug\02.PrintNumbers1toNDivby3and7.exe
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\02.PrintNumbers1toNDivby3and7\bin\Debug\02.PrintNumbers1toNDivby3and7.pdb
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\02.PrintNumbers1toNDivby3and7\obj\Debug\02.PrintNumbers1toNDivby3and7.exe
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\02.PrintNumbers1toNDivby3and7\obj\Debug\02.PrintNumbers1toNDivby3and7.pdb

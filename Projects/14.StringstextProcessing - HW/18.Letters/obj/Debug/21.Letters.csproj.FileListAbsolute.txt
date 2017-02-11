@@ -1,0 +1,5 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\bin\Debug\18.Letters.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\obj\Debug\18.Letters.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\obj\Debug\18.Letters.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\bin\Debug\18.Letters.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\bin\Debug\18.Letters.pdb

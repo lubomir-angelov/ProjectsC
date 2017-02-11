@@ -1,0 +1,10 @@
+﻿body p {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'DejaVu Sans Condensed', sans-serif;
+  font-size: 20px;
+}
+body button {
+  width: 60px;
+  height: 25px;
+  border-radius: 5px;
+}
+/*# sourceMappingURL=index.css.map */

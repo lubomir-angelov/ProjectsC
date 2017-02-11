@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\09.AscendingDescending\bin\Debug\09.AscendingDescending.exe.config
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\09.AscendingDescending\bin\Debug\09.AscendingDescending.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\09.AscendingDescending\bin\Debug\09.AscendingDescending.pdb
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\09.AscendingDescending\obj\Debug\09.AscendingDescending.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\09.AscendingDescending\obj\Debug\09.AscendingDescending.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\09.AscendingDescending\obj\Debug\09.AscendingDescending.pdb

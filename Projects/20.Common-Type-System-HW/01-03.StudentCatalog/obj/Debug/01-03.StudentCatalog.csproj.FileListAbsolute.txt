@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\01-03.StudentCatalog\bin\Debug\01-03.StudentCatalog.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\01-03.StudentCatalog\obj\Debug\01-03.StudentCatalog.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\01-03.StudentCatalog\bin\Debug\01-03.StudentCatalog.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\01-03.StudentCatalog\bin\Debug\01-03.StudentCatalog.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\01-03.StudentCatalog\obj\Debug\01-03.StudentCatalog.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\01-03.StudentCatalog\obj\Debug\01-03.StudentCatalog.pdb

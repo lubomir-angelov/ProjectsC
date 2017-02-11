@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\10.Sum-With-0.001-Accuracy\bin\Debug\10.Sum-With-0.001-Accuracy.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\10.Sum-With-0.001-Accuracy\bin\Debug\10.Sum-With-0.001-Accuracy.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\10.Sum-With-0.001-Accuracy\bin\Debug\10.Sum-With-0.001-Accuracy.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\10.Sum-With-0.001-Accuracy\obj\Debug\10.Sum-With-0.001-Accuracy.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\10.Sum-With-0.001-Accuracy\obj\Debug\10.Sum-With-0.001-Accuracy.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\10.Sum-With-0.001-Accuracy\obj\Debug\10.Sum-With-0.001-Accuracy.csprojResolveAssemblyReference.cache

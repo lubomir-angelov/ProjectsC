@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\06.IsPointInCircle\bin\Debug\06.IsPointInCircle.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\06.IsPointInCircle\obj\Debug\06.IsPointInCircle.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\06.IsPointInCircle\bin\Debug\06.IsPointInCircle.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\06.IsPointInCircle\bin\Debug\06.IsPointInCircle.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\06.IsPointInCircle\obj\Debug\06.IsPointInCircle.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\06.IsPointInCircle\obj\Debug\06.IsPointInCircle.pdb

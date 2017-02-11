@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\05.CheckMemberNeighbours\bin\Debug\05.CheckMemberNeighbours.exe.config
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\05.CheckMemberNeighbours\bin\Debug\05.CheckMemberNeighbours.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\05.CheckMemberNeighbours\bin\Debug\05.CheckMemberNeighbours.pdb
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\05.CheckMemberNeighbours\obj\Debug\05.CheckMemberNeighbours.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\05.CheckMemberNeighbours\obj\Debug\05.CheckMemberNeighbours.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\05.CheckMemberNeighbours\obj\Debug\05.CheckMemberNeighbours.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\05.CheckMemberNeighbours\bin\Debug\05.CheckMemberNeighbours.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\05.CheckMemberNeighbours\obj\Debug\05.CheckMemberNeighbours.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\05.CheckMemberNeighbours\obj\Debug\05.CheckMemberNeighbours.pdb

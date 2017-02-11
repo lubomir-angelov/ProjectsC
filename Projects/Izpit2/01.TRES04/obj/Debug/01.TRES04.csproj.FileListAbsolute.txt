@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\01.TRES04\bin\Debug\01.TRES04.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\01.TRES04\bin\Debug\01.TRES04.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\01.TRES04\bin\Debug\01.TRES04.pdb
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\01.TRES04\obj\Debug\01.TRES04.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\01.TRES04\obj\Debug\01.TRES04.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\01.TRES04\obj\Debug\01.TRES04.pdb
+E:\MyData\Programming\VisualStudioPrograms\Projects\Izpit2\01.TRES04\bin\Debug\01.TRES04.exe.config
+E:\MyData\Programming\VisualStudioPrograms\Projects\Izpit2\01.TRES04\obj\Debug\01.TRES04.exe
+E:\MyData\Programming\VisualStudioPrograms\Projects\Izpit2\01.TRES04\obj\Debug\01.TRES04.pdb

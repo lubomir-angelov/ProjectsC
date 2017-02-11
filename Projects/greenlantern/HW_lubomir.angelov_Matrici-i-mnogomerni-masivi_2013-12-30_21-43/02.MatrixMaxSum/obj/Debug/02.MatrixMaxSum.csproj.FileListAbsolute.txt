@@ -1,0 +1,9 @@
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\02.MatrixMaxSum\bin\Debug\02.MatrixMaxSum.exe.config
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\02.MatrixMaxSum\bin\Debug\02.MatrixMaxSum.exe
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\02.MatrixMaxSum\bin\Debug\02.MatrixMaxSum.pdb
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\02.MatrixMaxSum\obj\Debug\02.MatrixMaxSum.csprojResolveAssemblyReference.cache
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\02.MatrixMaxSum\obj\Debug\02.MatrixMaxSum.exe
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\02.MatrixMaxSum\obj\Debug\02.MatrixMaxSum.pdb
+D:\Programming\VisualStudioPrograms\Projects\greenlantern\HW_lubomir.angelov_Matrici-i-mnogomerni-masivi_2013-12-30_21-43\02.MatrixMaxSum\bin\Debug\02.MatrixMaxSum.exe.config
+D:\Programming\VisualStudioPrograms\Projects\greenlantern\HW_lubomir.angelov_Matrici-i-mnogomerni-masivi_2013-12-30_21-43\02.MatrixMaxSum\obj\Debug\02.MatrixMaxSum.exe
+D:\Programming\VisualStudioPrograms\Projects\greenlantern\HW_lubomir.angelov_Matrici-i-mnogomerni-masivi_2013-12-30_21-43\02.MatrixMaxSum\obj\Debug\02.MatrixMaxSum.pdb

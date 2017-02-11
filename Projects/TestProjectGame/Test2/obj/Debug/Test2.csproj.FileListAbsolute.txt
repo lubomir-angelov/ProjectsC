@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\Test2\bin\Debug\Test2.exe.config
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\Test2\bin\Debug\Test2.exe
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\Test2\bin\Debug\Test2.pdb
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\Test2\obj\Debug\Test2.exe
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\Test2\obj\Debug\Test2.pdb

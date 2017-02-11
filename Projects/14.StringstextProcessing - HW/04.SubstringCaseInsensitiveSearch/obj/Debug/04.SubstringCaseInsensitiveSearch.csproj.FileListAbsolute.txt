@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\04.SubstringCaseInsensitiveSearch\bin\Debug\04.SubstringCaseInsensitiveSearch.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\04.SubstringCaseInsensitiveSearch\bin\Debug\04.SubstringCaseInsensitiveSearch.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\04.SubstringCaseInsensitiveSearch\bin\Debug\04.SubstringCaseInsensitiveSearch.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\04.SubstringCaseInsensitiveSearch\obj\Debug\04.SubstringCaseInsensitiveSearch.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\04.SubstringCaseInsensitiveSearch\obj\Debug\04.SubstringCaseInsensitiveSearch.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\04.SubstringCaseInsensitiveSearch\obj\Debug\04.SubstringCaseInsensitiveSearch.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\04.SubstringCaseInsensitiveSearch\bin\Debug\04.SubstringCaseInsensitiveSearch.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\04.SubstringCaseInsensitiveSearch\obj\Debug\04.SubstringCaseInsensitiveSearch.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\04.SubstringCaseInsensitiveSearch\obj\Debug\04.SubstringCaseInsensitiveSearch.pdb

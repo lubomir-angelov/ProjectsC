@@ -1,0 +1,59 @@
+﻿body {
+}
+table{
+border-top: 2px solid lightgrey;
+border-left: 2px solid lightgrey;
+border-collapse: collapse;
+}
+td, th {
+    border-bottom: 2px solid lightgrey;
+    border-right: 2px solid lightgrey;
+}
+tfoot {
+    background-color:lightgrey;   
+    text-align:center;
+}
+#rowa, #rowb, #rowc, #rowd, #rowdd, #rowe,#rowf,#rowg,#rowh,#rowi,#rowj,#rowk,#rowl{
+width:100px;
+font-weight:bold}
+#address
+{
+    width:180px;
+    height:80px;
+    padding:1px;
+}
+#phoneOne, #phoneTwo, phoneThree {
+    width:40px;
+}
+#email {
+    width:100px;    
+}
+#state {
+    width:50px;
+}
+#monthCell, #dayCell, #yearCell {
+    font-size:small;
+}
+#month, #day{
+    height:15px;
+    width:30px;
+    padding:1px;
+} /*keeps displaying improperly (day and year text above boxes) even if height < than 5px*/
+#year {
+    height:15px;
+    width:80px;
+    padding:1px;
+}
+.commentsq {
+    width:300px;
+    height:100px;
+    padding:1px;
+}
+.email {
+    width:200px;
+}
+#lastrow 
+{
+    align-self:center;
+}
+

@@ -1,0 +1,4 @@
+AThis is the test LINE
+of the program ListOfStrings.
+Enjoy your writing!
+Happy New Year etc.

@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\02.WeLoveMusic\bin\02.WeLoveMusic.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\02.WeLoveMusic\bin\02.WeLoveMusic.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\02.WeLoveMusic\bin\02.WeLoveMusic.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\02.WeLoveMusic\bin\02.WeLoveMusic.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\02.WeLoveMusic\obj\Debug\_02.WeLoveMusic.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\02.WeLoveMusic\obj\Debug\02.WeLoveMusic.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\02.WeLoveMusic\obj\Debug\02.WeLoveMusic.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\02.WeLoveMusic\obj\Debug\02.WeLoveMusic.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\02.WeLoveMusic\obj\Debug\02.WeLoveMusic.pdb

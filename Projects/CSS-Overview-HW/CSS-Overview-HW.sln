@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PageSection", "01.PageSection\01.PageSection.csproj", "{1E324494-C43E-4B43-9A6D-EFA05B79DC4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTable", "EmployeeTable\EmployeeTable.csproj", "{FE93F1B4-CC2C-4B79-8567-1A90E979E6EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GrayWhitePage", "03.GrayWhitePage\03.GrayWhitePage.csproj", "{238B95B7-A5BF-4468-8213-71ED479BB6D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E324494-C43E-4B43-9A6D-EFA05B79DC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E324494-C43E-4B43-9A6D-EFA05B79DC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E324494-C43E-4B43-9A6D-EFA05B79DC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E324494-C43E-4B43-9A6D-EFA05B79DC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE93F1B4-CC2C-4B79-8567-1A90E979E6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE93F1B4-CC2C-4B79-8567-1A90E979E6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE93F1B4-CC2C-4B79-8567-1A90E979E6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE93F1B4-CC2C-4B79-8567-1A90E979E6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238B95B7-A5BF-4468-8213-71ED479BB6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238B95B7-A5BF-4468-8213-71ED479BB6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238B95B7-A5BF-4468-8213-71ED479BB6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238B95B7-A5BF-4468-8213-71ED479BB6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

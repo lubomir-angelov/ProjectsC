@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\Ecample12\bin\Debug\Ecample12.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\Ecample12\bin\Debug\Ecample12.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\Ecample12\bin\Debug\Ecample12.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\Ecample12\obj\Debug\Ecample12.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\Ecample12\obj\Debug\Ecample12.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\Ecample12\obj\Debug\Ecample12.pdb

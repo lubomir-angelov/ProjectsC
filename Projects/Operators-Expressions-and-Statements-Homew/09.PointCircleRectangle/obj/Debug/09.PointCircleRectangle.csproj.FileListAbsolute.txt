@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\09.PointCircleRectangle\bin\Debug\09.PointCircleRectangle.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\09.PointCircleRectangle\bin\Debug\09.PointCircleRectangle.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\09.PointCircleRectangle\bin\Debug\09.PointCircleRectangle.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\09.PointCircleRectangle\obj\Debug\09.PointCircleRectangle.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\09.PointCircleRectangle\obj\Debug\09.PointCircleRectangle.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\09.PointCircleRectangle\obj\Debug\09.PointCircleRectangle.pdb

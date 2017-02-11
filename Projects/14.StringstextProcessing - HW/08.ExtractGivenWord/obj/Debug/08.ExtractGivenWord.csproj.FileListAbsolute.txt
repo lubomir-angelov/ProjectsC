@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\08.ExtractGivenWord\bin\Debug\08.ExtractGivenWord.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\08.ExtractGivenWord\bin\Debug\08.ExtractGivenWord.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\08.ExtractGivenWord\bin\Debug\08.ExtractGivenWord.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\08.ExtractGivenWord\obj\Debug\08.ExtractGivenWord.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\08.ExtractGivenWord\obj\Debug\08.ExtractGivenWord.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\08.ExtractGivenWord\obj\Debug\08.ExtractGivenWord.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\08.ExtractGivenWord\bin\Debug\08.ExtractGivenWord.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\08.ExtractGivenWord\obj\Debug\08.ExtractGivenWord.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\08.ExtractGivenWord\obj\Debug\08.ExtractGivenWord.pdb

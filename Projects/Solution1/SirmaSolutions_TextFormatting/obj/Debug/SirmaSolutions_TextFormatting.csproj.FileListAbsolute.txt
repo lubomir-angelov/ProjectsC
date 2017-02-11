@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\Solution1\SirmaSolutions_TextFormatting\bin\SirmaSolutions_TextFormatting.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\Solution1\SirmaSolutions_TextFormatting\bin\SirmaSolutions_TextFormatting.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\Solution1\SirmaSolutions_TextFormatting\bin\SirmaSolutions_TextFormatting.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\Solution1\SirmaSolutions_TextFormatting\obj\Debug\SirmaSolutions_TextFormatting.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\Solution1\SirmaSolutions_TextFormatting\obj\Debug\SirmaSolutions_TextFormatting.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\Solution1\SirmaSolutions_TextFormatting\obj\Debug\SirmaSolutions_TextFormatting.pdb

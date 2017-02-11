@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\15.SieveOfErathostenes\bin\Debug\15.SieveOfErathostenes.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\15.SieveOfErathostenes\bin\Debug\15.SieveOfErathostenes.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\15.SieveOfErathostenes\bin\Debug\15.SieveOfErathostenes.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\15.SieveOfErathostenes\obj\Debug\15.SieveOfErathostenes.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\15.SieveOfErathostenes\obj\Debug\15.SieveOfErathostenes.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\15.SieveOfErathostenes\obj\Debug\15.SieveOfErathostenes.pdb

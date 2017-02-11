@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\08.Print-Numbers-1-n\bin\Debug\08.Print-Numbers-1-n.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\08.Print-Numbers-1-n\bin\Debug\08.Print-Numbers-1-n.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\08.Print-Numbers-1-n\bin\Debug\08.Print-Numbers-1-n.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\08.Print-Numbers-1-n\obj\Debug\08.Print-Numbers-1-n.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\08.Print-Numbers-1-n\obj\Debug\08.Print-Numbers-1-n.pdb

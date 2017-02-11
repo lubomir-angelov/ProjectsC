@@ -1,0 +1,12 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\bin\Debug\07.EncodeDecode.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\obj\Debug\07.EncodeDecode.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\obj\Debug\07.EncodeDecode.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\obj\Debug\07.EncodeDecode.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\obj\Debug\07.EncodeDecode.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\obj\Debug\07.EncodeDecode.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\bin\Debug\07.EncodeDecode.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\07.EncodeDecode\obj\Debug\07.EncodeDecode.csprojResolveAssemblyReference.cache

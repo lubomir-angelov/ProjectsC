@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\02.ReadNumber\obj\Debug\02.ReadNumber.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\02.ReadNumber\bin\Debug\02.ReadNumber.exe.config
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\02.ReadNumber\bin\Debug\02.ReadNumber.exe
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\02.ReadNumber\bin\Debug\02.ReadNumber.pdb
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\02.ReadNumber\obj\Debug\02.ReadNumber.exe
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\02.ReadNumber\obj\Debug\02.ReadNumber.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\02.ReadNumber\bin\Debug\02.ReadNumber.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\02.ReadNumber\obj\Debug\02.ReadNumber.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\02.ReadNumber\obj\Debug\02.ReadNumber.pdb

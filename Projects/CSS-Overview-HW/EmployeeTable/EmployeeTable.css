@@ -1,0 +1,23 @@
+﻿body {
+    background-color:white
+}
+table {
+    border-collapse:collapse;
+    text-align:left
+}
+td, th {
+    border-right: 1px solid brown;
+    border-collapse:collapse;
+}
+thead {
+    color:whitesmoke;
+    background-color:forestgreen
+}
+.white {
+    background-color:white
+}
+.gray {
+    background-color:lightgray
+}
+
+

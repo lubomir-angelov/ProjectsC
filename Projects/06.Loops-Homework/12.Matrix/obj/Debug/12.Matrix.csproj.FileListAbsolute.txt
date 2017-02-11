@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\12.Matrix\bin\Debug\12.Matrix.exe.config
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\12.Matrix\bin\Debug\12.Matrix.exe
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\12.Matrix\bin\Debug\12.Matrix.pdb
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\12.Matrix\obj\Debug\12.Matrix.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\12.Matrix\obj\Debug\12.Matrix.exe
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\12.Matrix\obj\Debug\12.Matrix.pdb

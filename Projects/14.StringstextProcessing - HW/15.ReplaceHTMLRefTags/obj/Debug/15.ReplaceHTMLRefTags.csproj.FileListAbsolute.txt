@@ -1,0 +1,12 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\bin\Debug\15.ReplaceHTMLRefTags.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\bin\Debug\15.ReplaceHTMLRefTags.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\bin\Debug\15.ReplaceHTMLRefTags.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\obj\Debug\15.ReplaceHTMLRefTags.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\obj\Debug\15.ReplaceHTMLRefTags.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\obj\Debug\15.ReplaceHTMLRefTags.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\bin\Debug\15.ReplaceHTMLRefTags.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\obj\Debug\15.ReplaceHTMLRefTags.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\obj\Debug\15.ReplaceHTMLRefTags.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\bin\Debug\15.ReplaceHTMLRefTags.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\bin\Debug\15.ReplaceHTMLRefTags.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\15.ReplaceHTMLRefTags\obj\Debug\15.ReplaceHTMLRefTags.csprojResolveAssemblyReference.cache

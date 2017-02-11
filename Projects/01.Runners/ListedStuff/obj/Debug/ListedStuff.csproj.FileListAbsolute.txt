@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\ListedStuff\bin\ListedStuff.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\ListedStuff\bin\ListedStuff.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\ListedStuff\bin\ListedStuff.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\ListedStuff\obj\Debug\ListedStuff.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\ListedStuff\obj\Debug\ListedStuff.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\ListedStuff\obj\Debug\ListedStuff.pdb

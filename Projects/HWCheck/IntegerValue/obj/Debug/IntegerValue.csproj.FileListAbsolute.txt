@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\HWCheck\IntegerValue\bin\Debug\IntegerValue.exe.config
+D:\Programming\VisualStudioPrograms\Projects\HWCheck\IntegerValue\bin\Debug\IntegerValue.exe
+D:\Programming\VisualStudioPrograms\Projects\HWCheck\IntegerValue\bin\Debug\IntegerValue.pdb
+D:\Programming\VisualStudioPrograms\Projects\HWCheck\IntegerValue\obj\Debug\IntegerValue.exe
+D:\Programming\VisualStudioPrograms\Projects\HWCheck\IntegerValue\obj\Debug\IntegerValue.pdb

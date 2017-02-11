@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\06.ListOfStrings\bin\Debug\06.ListOfStrings.exe.config
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\06.ListOfStrings\bin\Debug\06.ListOfStrings.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\06.ListOfStrings\bin\Debug\06.ListOfStrings.pdb
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\06.ListOfStrings\obj\Debug\06.ListOfStrings.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\06.ListOfStrings\obj\Debug\06.ListOfStrings.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\06.ListOfStrings\obj\Debug\06.ListOfStrings.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\06.ListOfStrings\bin\Debug\06.ListOfStrings.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\06.ListOfStrings\obj\Debug\06.ListOfStrings.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\06.ListOfStrings\obj\Debug\06.ListOfStrings.pdb

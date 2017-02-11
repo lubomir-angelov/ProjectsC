@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Solution2\01.Problem369\bin\Debug\01.Problem369.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Solution2\01.Problem369\bin\Debug\01.Problem369.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\01.Problem369\bin\Debug\01.Problem369.pdb
+D:\Programming\VisualStudioPrograms\Projects\Solution2\01.Problem369\obj\Debug\01.Problem369.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Solution2\01.Problem369\obj\Debug\01.Problem369.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\01.Problem369\obj\Debug\01.Problem369.pdb

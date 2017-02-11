@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\17.SubsetOfKAddsToS\bin\Debug\17.SubsetOfKAddsToS.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\17.SubsetOfKAddsToS\obj\Debug\17.SubsetOfKAddsToS.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\17.SubsetOfKAddsToS\bin\Debug\17.SubsetOfKAddsToS.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\17.SubsetOfKAddsToS\bin\Debug\17.SubsetOfKAddsToS.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\17.SubsetOfKAddsToS\obj\Debug\17.SubsetOfKAddsToS.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\17.SubsetOfKAddsToS\obj\Debug\17.SubsetOfKAddsToS.pdb

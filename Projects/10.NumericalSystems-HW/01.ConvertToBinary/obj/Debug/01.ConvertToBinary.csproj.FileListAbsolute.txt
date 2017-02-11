@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\01.ConvertToBinary\bin\Debug\01.ConvertToBinary.exe.config
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\01.ConvertToBinary\bin\Debug\01.ConvertToBinary.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\01.ConvertToBinary\bin\Debug\01.ConvertToBinary.pdb
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\01.ConvertToBinary\obj\Debug\01.ConvertToBinary.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\01.ConvertToBinary\obj\Debug\01.ConvertToBinary.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\01.ConvertToBinary\obj\Debug\01.ConvertToBinary.pdb

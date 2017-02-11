@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\14.Bit-ExchangeP-Q\bin\Debug\14.Bit-ExchangeP-Q.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\14.Bit-ExchangeP-Q\bin\Debug\14.Bit-ExchangeP-Q.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\14.Bit-ExchangeP-Q\bin\Debug\14.Bit-ExchangeP-Q.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\14.Bit-ExchangeP-Q\obj\Debug\14.Bit-ExchangeP-Q.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\14.Bit-ExchangeP-Q\obj\Debug\14.Bit-ExchangeP-Q.pdb

@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\SportsLeague\bin\Debug\SportsLeague.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\SportsLeague\obj\Debug\SportsLeague.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\SportsLeague\bin\Debug\SportsLeague.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\SportsLeague\bin\Debug\SportsLeague.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\SportsLeague\obj\Debug\SportsLeague.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\BAS-Test-25-10-14\SportsLeague\obj\Debug\SportsLeague.pdb

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Solution2\03.Expression\bin\Debug\03.Expression.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Solution2\03.Expression\obj\Debug\03.Expression.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Solution2\03.Expression\bin\Debug\03.Expression.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\03.Expression\bin\Debug\03.Expression.pdb
+D:\Programming\VisualStudioPrograms\Projects\Solution2\03.Expression\obj\Debug\03.Expression.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\03.Expression\obj\Debug\03.Expression.pdb

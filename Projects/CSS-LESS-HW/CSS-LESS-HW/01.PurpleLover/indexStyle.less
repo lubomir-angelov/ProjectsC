@@ -1,0 +1,234 @@
+﻿
+/*Please note the homework is done on a monitor 1280X800px if you are haveing problems with the aside items use zoom-in/out/
+/*we should use pixels:http://stackoverflow.com/questions/11799236/should-i-use-px-or-rem-in-my-css*/
+/*functions*/
+/*from http://forums.academy.telerik.com/62648/less-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-sample-logo-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1?show=62648#q62648*/
+/*answer of JuliaS*/
+.gradient-color(@from, @to, @repeat:none){
+    background-image: -webkit-linear-gradient(top, @from, @to);
+    background-image: -moz-linear-gradient(top, @from, @to);
+    background-image: -ms-linear-gradient(top, @from, @to);
+    background-image: -o-linear-gradient(top, @from, @to);
+    background-image: linear-gradient(to bottom, @from, @to);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{@from}', endColorstr='#{@to}',GradientType=0 );
+	background-repeat:@repeat;
+}
+/*variables*/
+@color-light:#CC99FF;
+@color-main:#9933FF;
+@color-borders:black;
+@color-boxes:mix(@color-light, @color-main, 60%);
+
+/*clear and reset everything*/
+.clearfix {
+    clear: both;
+    display:block;
+    content:"\00A0";
+}
+.reset {
+    margin: 0;
+    padding:0;
+    border: 0
+    }
+
+body{
+    .clearfix;
+    .reset;
+    background-color:@color-main;
+    font-family: 'Times New Roman' sans-serif;
+    color:white;
+
+    header{
+        .clearfix;
+        .reset;
+
+        /*
+        height:100%; - also does not fix the "line color bug"*/
+
+        div#header-container{
+            .gradient-color(@color-light, @color-main);
+            padding:10px; /*fixes the "line color bug, but only on my monitor(pixels are relative)"*/
+            /*height:120%;
+            width:100%;
+            overflow:visible;
+            these do not fix the line that is left from the background with differnet color*/
+        }
+
+        div#reg-form-container{
+           display:inline-block;
+           position:absolute;
+           right:80px;
+           top:10px;
+           
+           #tb-username, #tb-password{
+               border:1px solid @color-borders;
+               border-radius:10px;
+               background-color:@color-boxes;
+               width:150px;
+               margin:3px;
+               padding:2px;
+           }
+           #tb-password{
+               margin-left:4px;
+               padding-right:3px;
+           }
+        }
+        #btn-register{
+               .gradient-color(@color-light, @color-main);
+               display:block;
+               position:relative;
+               color:white;
+               border:1px solid @color-borders;
+               border-radius:10px;
+               font-size:16px;
+               font-weight:700;
+               padding:5px 20px;
+               text-align:center;
+               margin-top:7px;
+               right:20px;
+               width:100px;
+
+               &:hover{
+                   background-color:@color-light;
+                   text-decoration:underline;
+               }
+           } 
+
+        nav{
+            .clearfix;
+            .reset;
+            border:1px solid @color-borders;
+            border-radius:10px;
+            padding-top:10px;
+            padding-bottom:10px;
+            width:900px;
+            margin-left:20px;
+        ul{
+            .clearfix;
+            .reset;
+            li{
+                list-style-type:none;
+                display:inline-block;
+
+                /*from JuliaS, see top, with some changes(small ones)*/
+                a{
+					text-decoration: none;
+					color: #FFFFFF; 
+					padding: 0 10px 0 10px;
+					
+				}
+				
+				&:hover{
+				
+					& > a{ 
+						text-decoration: underline;
+					}
+					
+					& > ul{
+						display: block;
+					}
+				}
+				
+				ul{
+					display:none;
+					position: relative;
+					background: #ca8df7;
+					opacity: 0.9;
+					border-radius: 10px;
+					
+					li{
+						display: block;
+						margin: 0 10px;
+						padding: 10px 0;
+						border-bottom: 1px solid @color-borders;
+						
+						&:hover{
+							& > a{
+								color: @color-main;
+							}
+						}
+						
+						&:last-of-type{
+							border-bottom: none;
+						}
+
+                       }
+                    }
+
+                }
+            }
+        }
+
+        }/*header bracket*/
+
+    section{
+        .clearfix;
+        .reset;
+
+        article{
+            border:1px solid @color-borders;
+            border-radius:10px;
+            background-color:@color-main;
+            margin:20px 10px;
+            padding:20px;
+            width:820px;
+
+            footer{
+                text-align:right;
+            }
+        }
+    }
+
+    aside{
+        .clearfix;
+        .reset;
+
+        ul{
+            list-style-type:none;
+            display:block;
+            position:absolute;
+            right:80px;
+            top:200px;
+
+           li{
+                border:1px solid @color-borders;
+                border-radius:5px;
+                padding:5px;
+                height:200px;
+                width:260px;
+                margin:10px;
+
+                ul{
+                    margin:7px;
+			        li{
+                        display:block;
+                        position:relative;
+                        width:auto;
+                        height:20px;
+                        top:80px;
+                        padding:2px;
+                        margin:2px;
+                        border:none;
+			        }
+                  }
+                em{
+                    color:@color-light;
+                }
+             }
+           
+
+        }
+    }
+
+    footer{
+        text-align:center;
+        font-weight:700;
+    }
+      
+    a{
+        text-decoration:none;
+        color:@color-light
+       }
+
+    }/*body bracket*/
+

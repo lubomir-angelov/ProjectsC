@@ -1,0 +1,30 @@
+﻿body 
+{
+    background-color:green;
+}
+table 
+{
+    background-color:aquamarine;
+    width:150px;
+    height:100px;
+}
+#result 
+{
+    text-align:right;
+}
+#minus 
+{
+    width:31px;
+}
+#multiplication 
+{
+    width:31px;
+}
+#delete 
+{
+    width:31px;
+}
+#dot 
+{
+    width:31px;
+}

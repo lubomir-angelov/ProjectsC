@@ -1,0 +1,5 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\03.Calculator\bin\03.Calculator.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\03.Calculator\bin\03.Calculator.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\03.Calculator\bin\03.Calculator.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\03.Calculator\obj\Debug\03.Calculator.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\03.Calculator\obj\Debug\03.Calculator.pdb

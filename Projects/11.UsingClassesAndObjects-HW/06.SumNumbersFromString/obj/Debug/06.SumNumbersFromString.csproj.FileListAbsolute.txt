@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\06.SumNumbersFromString\bin\Debug\06.SumNumbersFromString.exe.config
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\06.SumNumbersFromString\bin\Debug\06.SumNumbersFromString.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\06.SumNumbersFromString\bin\Debug\06.SumNumbersFromString.pdb
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\06.SumNumbersFromString\obj\Debug\06.SumNumbersFromString.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\06.SumNumbersFromString\obj\Debug\06.SumNumbersFromString.exe
+D:\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\06.SumNumbersFromString\obj\Debug\06.SumNumbersFromString.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\06.SumNumbersFromString\bin\Debug\06.SumNumbersFromString.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\06.SumNumbersFromString\obj\Debug\06.SumNumbersFromString.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\11.UsingClassesAndObjects-HW\06.SumNumbersFromString\obj\Debug\06.SumNumbersFromString.pdb

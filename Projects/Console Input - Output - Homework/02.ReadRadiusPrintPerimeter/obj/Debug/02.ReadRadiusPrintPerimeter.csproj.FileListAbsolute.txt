@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\02.ReadRadiusPrintPerimeter\bin\Debug\02.ReadRadiusPrintPerimeter.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\02.ReadRadiusPrintPerimeter\bin\Debug\02.ReadRadiusPrintPerimeter.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\02.ReadRadiusPrintPerimeter\bin\Debug\02.ReadRadiusPrintPerimeter.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\02.ReadRadiusPrintPerimeter\obj\Debug\02.ReadRadiusPrintPerimeter.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\02.ReadRadiusPrintPerimeter\obj\Debug\02.ReadRadiusPrintPerimeter.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\02.ReadRadiusPrintPerimeter\obj\Debug\02.ReadRadiusPrintPerimeter.csprojResolveAssemblyReference.cache

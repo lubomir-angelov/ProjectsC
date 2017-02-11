@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\19.Fire\bin\Debug\19.Fire.exe.config
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\19.Fire\bin\Debug\19.Fire.exe
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\19.Fire\bin\Debug\19.Fire.pdb
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\19.Fire\obj\Debug\19.Fire.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\19.Fire\obj\Debug\19.Fire.exe
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\19.Fire\obj\Debug\19.Fire.pdb

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Solution2\05.Warhead\bin\Debug\05.Warhead.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Solution2\05.Warhead\bin\Debug\05.Warhead.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\05.Warhead\bin\Debug\05.Warhead.pdb
+D:\Programming\VisualStudioPrograms\Projects\Solution2\05.Warhead\obj\Debug\05.Warhead.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Solution2\05.Warhead\obj\Debug\05.Warhead.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\05.Warhead\obj\Debug\05.Warhead.pdb

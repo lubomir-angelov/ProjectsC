@@ -1,0 +1,26 @@
+{
+  "name": "closuresandscopes",
+  "version": "1.0.0",
+  "description": "testpackage",
+  "main": "task-1.js",
+  "scripts": {
+    "test": "C:\Program Files\nodejs\node_modules\npm\test\run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubomir-angelov/JS-OOP-HW-ClosuresAndScopes.git"
+  },
+  "keywords": [
+    "JS",
+    "OOP",
+    "HW",
+    "closures",
+    "scopes"
+  ],
+  "author": "LyubomirAngelov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubomir-angelov/JS-OOP-HW-ClosuresAndScopes/issues"
+  },
+  "homepage": "https://github.com/lubomir-angelov/JS-OOP-HW-ClosuresAndScopes#readme"
+}

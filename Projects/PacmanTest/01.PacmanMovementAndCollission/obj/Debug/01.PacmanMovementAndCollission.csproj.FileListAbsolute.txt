@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\PacmanTest\01.PacmanMovementAndCollission\bin\Debug\01.PacmanMovementAndCollission.exe.config
+D:\Programming\VisualStudioPrograms\Projects\PacmanTest\01.PacmanMovementAndCollission\bin\Debug\01.PacmanMovementAndCollission.exe
+D:\Programming\VisualStudioPrograms\Projects\PacmanTest\01.PacmanMovementAndCollission\bin\Debug\01.PacmanMovementAndCollission.pdb
+D:\Programming\VisualStudioPrograms\Projects\PacmanTest\01.PacmanMovementAndCollission\obj\Debug\01.PacmanMovementAndCollission.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\PacmanTest\01.PacmanMovementAndCollission\obj\Debug\01.PacmanMovementAndCollission.exe
+D:\Programming\VisualStudioPrograms\Projects\PacmanTest\01.PacmanMovementAndCollission\obj\Debug\01.PacmanMovementAndCollission.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\PacmanTest\01.PacmanMovementAndCollission\bin\Debug\01.PacmanMovementAndCollission.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\PacmanTest\01.PacmanMovementAndCollission\obj\Debug\01.PacmanMovementAndCollission.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\PacmanTest\01.PacmanMovementAndCollission\obj\Debug\01.PacmanMovementAndCollission.pdb

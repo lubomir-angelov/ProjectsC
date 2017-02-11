@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\bin\Debug\18.Letters.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\bin\Debug\18.Letters.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\bin\Debug\18.Letters.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\obj\Debug\18.Letters.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\obj\Debug\18.Letters.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\18.Letters\obj\Debug\18.Letters.pdb

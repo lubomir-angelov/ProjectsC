@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\Bank\bin\Debug\Bank.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\Bank\bin\Debug\Bank.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\Bank\bin\Debug\Bank.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\Bank\obj\Debug\Bank.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\OOPPart2 - HW\Bank\obj\Debug\Bank.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\19.OOPPart2 - HW\Bank\bin\Debug\Bank.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\19.OOPPart2 - HW\Bank\obj\Debug\Bank.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\19.OOPPart2 - HW\Bank\obj\Debug\Bank.pdb

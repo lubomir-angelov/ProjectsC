@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\09.First-100-Numbers-Fibonaci\bin\Debug\09.First-100-Numbers-Fibonaci.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\09.First-100-Numbers-Fibonaci\bin\Debug\09.First-100-Numbers-Fibonaci.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\09.First-100-Numbers-Fibonaci\bin\Debug\09.First-100-Numbers-Fibonaci.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\09.First-100-Numbers-Fibonaci\obj\Debug\09.First-100-Numbers-Fibonaci.exe
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\09.First-100-Numbers-Fibonaci\obj\Debug\09.First-100-Numbers-Fibonaci.pdb
+D:\Programming\VisualStudioPrograms\Projects\Console Input - Output - Homework\09.First-100-Numbers-Fibonaci\obj\Debug\09.First-100-Numbers-Fibonaci.csprojResolveAssemblyReference.cache

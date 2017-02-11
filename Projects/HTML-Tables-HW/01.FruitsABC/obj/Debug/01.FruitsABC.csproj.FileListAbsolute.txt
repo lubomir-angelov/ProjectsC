@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\01.FruitsABC\bin\01.FruitsABC.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\01.FruitsABC\bin\01.FruitsABC.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\01.FruitsABC\bin\01.FruitsABC.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\01.FruitsABC\obj\Debug\01.FruitsABC.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\01.FruitsABC\obj\Debug\01.FruitsABC.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\01.FruitsABC\obj\Debug\01.FruitsABC.pdb

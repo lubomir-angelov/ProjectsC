@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\04.CountAppearanceInArray\bin\Debug\04.CountAppearanceInArray.exe.config
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\04.CountAppearanceInArray\obj\Debug\04.CountAppearanceInArray.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\04.CountAppearanceInArray\bin\Debug\04.CountAppearanceInArray.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\04.CountAppearanceInArray\bin\Debug\04.CountAppearanceInArray.pdb
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\04.CountAppearanceInArray\obj\Debug\04.CountAppearanceInArray.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\04.CountAppearanceInArray\obj\Debug\04.CountAppearanceInArray.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\04.CountAppearanceInArray\bin\Debug\04.CountAppearanceInArray.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\04.CountAppearanceInArray\obj\Debug\04.CountAppearanceInArray.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\04.CountAppearanceInArray\obj\Debug\04.CountAppearanceInArray.pdb

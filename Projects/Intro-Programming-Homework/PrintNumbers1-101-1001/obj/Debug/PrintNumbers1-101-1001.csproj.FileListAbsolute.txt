@@ -1,0 +1,8 @@
+c:\users\любо\documents\visual studio 2012\Projects\Hello\PrintNumbers1-101-1001\bin\Debug\PrintNumbers1-101-1001.exe.config
+c:\users\любо\documents\visual studio 2012\Projects\Hello\PrintNumbers1-101-1001\bin\Debug\PrintNumbers1-101-1001.exe
+c:\users\любо\documents\visual studio 2012\Projects\Hello\PrintNumbers1-101-1001\bin\Debug\PrintNumbers1-101-1001.pdb
+c:\users\любо\documents\visual studio 2012\Projects\Hello\PrintNumbers1-101-1001\obj\Debug\PrintNumbers1-101-1001.exe
+c:\users\любо\documents\visual studio 2012\Projects\Hello\PrintNumbers1-101-1001\obj\Debug\PrintNumbers1-101-1001.pdb
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\PrintNumbers1-101-1001\bin\Debug\PrintNumbers1-101-1001.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\PrintNumbers1-101-1001\obj\Debug\PrintNumbers1-101-1001.exe
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\PrintNumbers1-101-1001\obj\Debug\PrintNumbers1-101-1001.pdb

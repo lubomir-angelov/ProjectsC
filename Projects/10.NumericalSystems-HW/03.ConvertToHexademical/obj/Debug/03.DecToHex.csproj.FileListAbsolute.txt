@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\03.ConvertToHexademical\bin\Debug\03.ConvertToHexademical.exe.config
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\03.ConvertToHexademical\obj\Debug\03.ConvertToHexademical.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\03.ConvertToHexademical\obj\Debug\03.ConvertToHexademical.pdb
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\03.ConvertToHexademical\bin\Debug\03.ConvertToHexademical.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\03.ConvertToHexademical\bin\Debug\03.ConvertToHexademical.pdb

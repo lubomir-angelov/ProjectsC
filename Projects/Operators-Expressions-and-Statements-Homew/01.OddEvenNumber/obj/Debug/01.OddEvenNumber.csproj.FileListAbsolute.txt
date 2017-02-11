@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\01.OddEvenNumber\bin\Debug\01.OddEvenNumber.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\01.OddEvenNumber\bin\Debug\01.OddEvenNumber.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\01.OddEvenNumber\bin\Debug\01.OddEvenNumber.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\01.OddEvenNumber\obj\Debug\01.OddEvenNumber.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\01.OddEvenNumber\obj\Debug\01.OddEvenNumber.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\01.OddEvenNumber\obj\Debug\01.OddEvenNumber.csprojResolveAssemblyReference.cache

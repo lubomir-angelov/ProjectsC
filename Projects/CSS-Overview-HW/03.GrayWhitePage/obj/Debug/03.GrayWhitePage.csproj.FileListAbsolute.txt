@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\03.GrayWhitePage\bin\03.GrayWhitePage.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\03.GrayWhitePage\bin\03.GrayWhitePage.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\03.GrayWhitePage\bin\03.GrayWhitePage.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\03.GrayWhitePage\obj\Debug\03.GrayWhitePage.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\03.GrayWhitePage\obj\Debug\03.GrayWhitePage.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\03.GrayWhitePage\obj\Debug\03.GrayWhitePage.pdb

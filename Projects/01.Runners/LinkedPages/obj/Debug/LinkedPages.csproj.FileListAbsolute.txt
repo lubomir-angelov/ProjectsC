@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\LinkedPages\bin\LinkedPages.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\LinkedPages\bin\LinkedPages.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\LinkedPages\bin\LinkedPages.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\LinkedPages\obj\Debug\LinkedPages.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\LinkedPages\obj\Debug\LinkedPages.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\LinkedPages\obj\Debug\LinkedPages.csprojResolveAssemblyReference.cache

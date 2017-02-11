@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\01.Goodbye\bin\Debug\01.Goodbye.exe.config
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\01.Goodbye\bin\Debug\01.Goodbye.exe
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\01.Goodbye\bin\Debug\01.Goodbye.pdb
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\01.Goodbye\obj\Debug\01.Goodbye.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\01.Goodbye\obj\Debug\01.Goodbye.exe
+D:\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\01.Goodbye\obj\Debug\01.Goodbye.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\01.Goodbye\bin\Debug\01.Goodbye.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\01.Goodbye\obj\Debug\01.Goodbye.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\13.ExceptionHandling - HW\01.Goodbye\obj\Debug\01.Goodbye.pdb

@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\03.RectangleArea\bin\Debug\03.RectangleArea.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\03.RectangleArea\bin\Debug\03.RectangleArea.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\03.RectangleArea\bin\Debug\03.RectangleArea.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\03.RectangleArea\obj\Debug\03.RectangleArea.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\03.RectangleArea\obj\Debug\03.RectangleArea.pdb

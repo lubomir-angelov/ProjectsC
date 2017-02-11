@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CharWithUnicodeValue\bin\Debug\CharWithUnicodeValue.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CharWithUnicodeValue\bin\Debug\CharWithUnicodeValue.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CharWithUnicodeValue\bin\Debug\CharWithUnicodeValue.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CharWithUnicodeValue\obj\Debug\CharWithUnicodeValue.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CharWithUnicodeValue\obj\Debug\CharWithUnicodeValue.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CharWithUnicodeValue\obj\Debug\05.CharWithUnicodeValue.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\05.CharWithUnicodeValue\bin\Debug\CharWithUnicodeValue.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\05.CharWithUnicodeValue\obj\Debug\CharWithUnicodeValue.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\05.CharWithUnicodeValue\obj\Debug\CharWithUnicodeValue.pdb

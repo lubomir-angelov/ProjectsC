@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\06.BinToHexDirectly\bin\Debug\06.BinToHexDirectly.exe.config
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\06.BinToHexDirectly\bin\Debug\06.BinToHexDirectly.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\06.BinToHexDirectly\bin\Debug\06.BinToHexDirectly.pdb
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\06.BinToHexDirectly\obj\Debug\06.BinToHexDirectly.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\06.BinToHexDirectly\obj\Debug\06.BinToHexDirectly.exe
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\06.BinToHexDirectly\obj\Debug\06.BinToHexDirectly.pdb

@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\01.LoremIpsum\bin\01.LoremIpsum.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\01.LoremIpsum\bin\01.LoremIpsum.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\01.LoremIpsum\bin\01.LoremIpsum.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\01.LoremIpsum\obj\Debug\01.LoremIpsum.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\01.LoremIpsum\obj\Debug\01.LoremIpsum.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Preview-HW\01.LoremIpsum\obj\Debug\01.LoremIpsum.pdb

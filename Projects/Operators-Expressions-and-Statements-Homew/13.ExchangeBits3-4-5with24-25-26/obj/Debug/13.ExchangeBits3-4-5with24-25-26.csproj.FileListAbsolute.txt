@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\13.ExchangeBits3-4-5with24-25-26\bin\Debug\13.ExchangeBits3-4-5with24-25-26.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\13.ExchangeBits3-4-5with24-25-26\bin\Debug\13.ExchangeBits3-4-5with24-25-26.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\13.ExchangeBits3-4-5with24-25-26\bin\Debug\13.ExchangeBits3-4-5with24-25-26.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\13.ExchangeBits3-4-5with24-25-26\obj\Debug\13.ExchangeBits3-4-5with24-25-26.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\13.ExchangeBits3-4-5with24-25-26\obj\Debug\13.ExchangeBits3-4-5with24-25-26.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\13.ExchangeBits3-4-5with24-25-26\obj\Debug\13.ExchangeBits3-4-5with24-25-26.csprojResolveAssemblyReference.cache

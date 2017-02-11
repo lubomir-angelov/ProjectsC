@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\20.Neurons\bin\Debug\20.Neurons.exe.config
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\20.Neurons\bin\Debug\20.Neurons.exe
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\20.Neurons\bin\Debug\20.Neurons.pdb
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\20.Neurons\obj\Debug\20.Neurons.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\20.Neurons\obj\Debug\20.Neurons.exe
+D:\Programming\VisualStudioPrograms\Projects\ExamPrep\20.Neurons\obj\Debug\20.Neurons.pdb

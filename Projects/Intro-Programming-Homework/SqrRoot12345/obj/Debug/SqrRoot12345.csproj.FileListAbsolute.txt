@@ -1,0 +1,12 @@
+c:\users\любо\documents\visual studio 2012\Projects\Hello\SqrRoot12345\bin\Debug\SqrRoot12345.exe.config
+c:\users\любо\documents\visual studio 2012\Projects\Hello\SqrRoot12345\bin\Debug\SqrRoot12345.exe
+c:\users\любо\documents\visual studio 2012\Projects\Hello\SqrRoot12345\bin\Debug\SqrRoot12345.pdb
+c:\users\любо\documents\visual studio 2012\Projects\Hello\SqrRoot12345\obj\Debug\SqrRoot12345.csprojResolveAssemblyReference.cache
+c:\users\любо\documents\visual studio 2012\Projects\Hello\SqrRoot12345\obj\Debug\SqrRoot12345.exe
+c:\users\любо\documents\visual studio 2012\Projects\Hello\SqrRoot12345\obj\Debug\SqrRoot12345.pdb
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\SqrRoot12345\bin\Debug\SqrRoot12345.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\SqrRoot12345\obj\Debug\SqrRoot12345.exe
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\SqrRoot12345\obj\Debug\SqrRoot12345.pdb
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\SqrRoot12345\bin\Debug\SqrRoot12345.exe
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\SqrRoot12345\bin\Debug\SqrRoot12345.pdb
+D:\Programming\VisualStudioPrograms\Projects\Intro-Programming-Homework\SqrRoot12345\obj\Debug\SqrRoot12345.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\test\bin\Debug\test.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\test\bin\Debug\test.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\test\bin\Debug\test.pdb
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\test\obj\Debug\test.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\test\obj\Debug\test.pdb

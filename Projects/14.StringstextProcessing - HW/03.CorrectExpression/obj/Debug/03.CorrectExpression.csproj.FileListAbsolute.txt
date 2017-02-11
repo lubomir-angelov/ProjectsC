@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\03.CorrectExpression\bin\Debug\03.CorrectExpression.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\03.CorrectExpression\bin\Debug\03.CorrectExpression.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\03.CorrectExpression\bin\Debug\03.CorrectExpression.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\03.CorrectExpression\obj\Debug\03.CorrectExpression.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\03.CorrectExpression\obj\Debug\03.CorrectExpression.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\03.CorrectExpression\obj\Debug\03.CorrectExpression.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\03.CorrectExpression\bin\Debug\03.CorrectExpression.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\03.CorrectExpression\obj\Debug\03.CorrectExpression.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\03.CorrectExpression\obj\Debug\03.CorrectExpression.pdb

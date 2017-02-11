@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\02.Human\bin\Debug\02.Human.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\02.Human\bin\Debug\02.Human.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\02.Human\bin\Debug\02.Human.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\02.Human\obj\Debug\02.Human.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\02.Human\obj\Debug\02.Human.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\02.Human\obj\Debug\02.Human.csprojResolveAssemblyReference.cache

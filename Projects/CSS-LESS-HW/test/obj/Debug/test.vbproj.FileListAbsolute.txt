@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\test\bin\test.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\test\bin\test.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\test\bin\test.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\test\bin\test.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\test\obj\Debug\test.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\test\obj\Debug\test.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\test\obj\Debug\test.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\test\obj\Debug\test.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-LESS-HW\test\obj\Debug\test.pdb

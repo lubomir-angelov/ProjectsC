@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\03.ManageTotal\bin\03.ManageTotal.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\03.ManageTotal\bin\03.ManageTotal.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\03.ManageTotal\bin\03.ManageTotal.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\03.ManageTotal\bin\03.ManageTotal.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\03.ManageTotal\obj\Debug\_03.ManageTotal.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\03.ManageTotal\obj\Debug\03.ManageTotal.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\03.ManageTotal\obj\Debug\03.ManageTotal.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\03.ManageTotal\obj\Debug\03.ManageTotal.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS - layout - HW\03.ManageTotal\obj\Debug\03.ManageTotal.pdb

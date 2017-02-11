@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\14.Dictionary\bin\Debug\14.Dictionary.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\14.Dictionary\bin\Debug\14.Dictionary.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\14.Dictionary\bin\Debug\14.Dictionary.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\14.Dictionary\obj\Debug\14.Dictionary.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\14.Dictionary\obj\Debug\14.Dictionary.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\14.Dictionary\obj\Debug\14.Dictionary.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\14.Dictionary\bin\Debug\14.Dictionary.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\14.Dictionary\obj\Debug\14.Dictionary.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\14.Dictionary\obj\Debug\14.Dictionary.pdb

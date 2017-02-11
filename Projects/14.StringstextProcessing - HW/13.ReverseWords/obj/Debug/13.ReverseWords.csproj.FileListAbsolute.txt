@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\13.ReverseWords\bin\Debug\13.ReverseWords.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\13.ReverseWords\bin\Debug\13.ReverseWords.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\13.ReverseWords\bin\Debug\13.ReverseWords.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\13.ReverseWords\obj\Debug\13.ReverseWords.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\13.ReverseWords\obj\Debug\13.ReverseWords.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\13.ReverseWords\obj\Debug\13.ReverseWords.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\13.ReverseWords\bin\Debug\13.ReverseWords.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\13.ReverseWords\obj\Debug\13.ReverseWords.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\13.ReverseWords\obj\Debug\13.ReverseWords.pdb

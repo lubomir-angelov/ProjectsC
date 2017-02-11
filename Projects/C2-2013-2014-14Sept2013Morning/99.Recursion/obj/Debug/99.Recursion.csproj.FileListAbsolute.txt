@@ -1,0 +1,2 @@
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\99.Recursion\bin\Debug\99.Recursion.exe.config
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\99.Recursion\obj\Debug\99.Recursion.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\TestProjectGame\bin\Debug\TestProjectGame.exe.config
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\TestProjectGame\bin\Debug\TestProjectGame.exe
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\TestProjectGame\bin\Debug\TestProjectGame.pdb
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\TestProjectGame\obj\Debug\TestProjectGame.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\TestProjectGame\obj\Debug\TestProjectGame.exe
+D:\Programming\VisualStudioPrograms\Projects\TestProjectGame\TestProjectGame\obj\Debug\TestProjectGame.pdb

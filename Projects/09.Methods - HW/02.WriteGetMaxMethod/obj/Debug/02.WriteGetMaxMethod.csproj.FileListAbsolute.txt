@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\02.WriteGetMaxMethod\bin\Debug\02.WriteGetMaxMethod.exe.config
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\02.WriteGetMaxMethod\bin\Debug\02.WriteGetMaxMethod.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\02.WriteGetMaxMethod\bin\Debug\02.WriteGetMaxMethod.pdb
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\02.WriteGetMaxMethod\obj\Debug\02.WriteGetMaxMethod.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\02.WriteGetMaxMethod\obj\Debug\02.WriteGetMaxMethod.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\02.WriteGetMaxMethod\obj\Debug\02.WriteGetMaxMethod.pdb

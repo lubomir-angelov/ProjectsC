@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\18.DeleteSort\bin\Debug\18.DeleteSort.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\18.DeleteSort\bin\Debug\18.DeleteSort.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\18.DeleteSort\bin\Debug\18.DeleteSort.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\18.DeleteSort\obj\Debug\18.DeleteSort.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\18.DeleteSort\obj\Debug\18.DeleteSort.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\18.DeleteSort\obj\Debug\18.DeleteSort.pdb

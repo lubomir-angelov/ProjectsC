@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\02.Reverse\bin\Debug\02.Reverse.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\02.Reverse\bin\Debug\02.Reverse.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\02.Reverse\bin\Debug\02.Reverse.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\02.Reverse\obj\Debug\02.Reverse.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\02.Reverse\obj\Debug\02.Reverse.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\02.Reverse\obj\Debug\02.Reverse.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\02.Reverse\bin\Debug\02.Reverse.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\02.Reverse\obj\Debug\02.Reverse.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\02.Reverse\obj\Debug\02.Reverse.pdb

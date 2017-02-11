@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\CommonLibrary\obj\Debug\CommonLibrary.pdb
+D:\Programming\VisualStudioPrograms\Projects\10.NumericalSystems-HW\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.pdb

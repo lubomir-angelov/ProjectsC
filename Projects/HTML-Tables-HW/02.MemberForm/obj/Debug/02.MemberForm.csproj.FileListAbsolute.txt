@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\02.MemberForm\bin\02.MemberForm.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\02.MemberForm\bin\02.MemberForm.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\02.MemberForm\bin\02.MemberForm.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\02.MemberForm\obj\Debug\02.MemberForm.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\02.MemberForm\obj\Debug\02.MemberForm.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Tables-HW\02.MemberForm\obj\Debug\02.MemberForm.pdb

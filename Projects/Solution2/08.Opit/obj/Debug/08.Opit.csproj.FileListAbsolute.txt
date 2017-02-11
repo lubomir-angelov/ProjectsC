@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\Solution2\08.Opit\bin\Debug\08.Opit.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Solution2\08.Opit\bin\Debug\08.Opit.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\08.Opit\bin\Debug\08.Opit.pdb
+D:\Programming\VisualStudioPrograms\Projects\Solution2\08.Opit\obj\Debug\08.Opit.exe
+D:\Programming\VisualStudioPrograms\Projects\Solution2\08.Opit\obj\Debug\08.Opit.pdb

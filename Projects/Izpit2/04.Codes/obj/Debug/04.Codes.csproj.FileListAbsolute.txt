@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\04.Codes\bin\Debug\04.Codes.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\04.Codes\bin\Debug\04.Codes.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\04.Codes\bin\Debug\04.Codes.pdb
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\04.Codes\obj\Debug\04.Codes.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\04.Codes\obj\Debug\04.Codes.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\04.Codes\obj\Debug\04.Codes.pdb
+E:\MyData\Programming\VisualStudioPrograms\Projects\Izpit2\04.Codes\bin\Debug\04.Codes.exe.config
+E:\MyData\Programming\VisualStudioPrograms\Projects\Izpit2\04.Codes\obj\Debug\04.Codes.exe
+E:\MyData\Programming\VisualStudioPrograms\Projects\Izpit2\04.Codes\obj\Debug\04.Codes.pdb

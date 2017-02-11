@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\01.PageSection\bin\01.PageSection.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\01.PageSection\bin\01.PageSection.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\01.PageSection\bin\01.PageSection.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\01.PageSection\obj\Debug\01.PageSection.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\01.PageSection\obj\Debug\01.PageSection.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\CSS-Overview-HW\01.PageSection\obj\Debug\01.PageSection.pdb

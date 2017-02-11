@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\DefineFloatingPVariables\bin\Debug\DefineFloatingPVariables.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\DefineFloatingPVariables\bin\Debug\DefineFloatingPVariables.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\DefineFloatingPVariables\bin\Debug\DefineFloatingPVariables.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\DefineFloatingPVariables\obj\Debug\02.DefineFloatingPVariables.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\DefineFloatingPVariables\obj\Debug\DefineFloatingPVariables.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\DefineFloatingPVariables\obj\Debug\DefineFloatingPVariables.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\02.DefineFloatingPVariables\bin\Debug\DefineFloatingPVariables.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\02.DefineFloatingPVariables\obj\Debug\DefineFloatingPVariables.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\02.DefineFloatingPVariables\obj\Debug\DefineFloatingPVariables.pdb

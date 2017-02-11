@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\DefiningClassesPart1-HW\DefiningClassesPart1-HW\bin\Debug\DefiningClassesPart1-HW.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\DefiningClassesPart1-HW\DefiningClassesPart1-HW\bin\Debug\DefiningClassesPart1-HW.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\DefiningClassesPart1-HW\DefiningClassesPart1-HW\bin\Debug\DefiningClassesPart1-HW.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\DefiningClassesPart1-HW\DefiningClassesPart1-HW\obj\Debug\DefiningClassesPart1-HW.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\DefiningClassesPart1-HW\DefiningClassesPart1-HW\obj\Debug\DefiningClassesPart1-HW.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\DefiningClassesPart1-HW\DefiningClassesPart1-HW\obj\Debug\DefiningClassesPart1-HW.pdb

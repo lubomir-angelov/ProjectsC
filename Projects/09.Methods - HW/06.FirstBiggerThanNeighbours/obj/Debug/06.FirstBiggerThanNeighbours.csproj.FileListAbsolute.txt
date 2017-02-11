@@ -1,0 +1,8 @@
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\06.FirstBiggerThanNeighbours\bin\Debug\06.FirstBiggerThanNeighbours.exe.config
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\06.FirstBiggerThanNeighbours\bin\Debug\06.FirstBiggerThanNeighbours.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\06.FirstBiggerThanNeighbours\bin\Debug\06.FirstBiggerThanNeighbours.pdb
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\06.FirstBiggerThanNeighbours\obj\Debug\06.FirstBiggerThanNeighbours.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\06.FirstBiggerThanNeighbours\obj\Debug\06.FirstBiggerThanNeighbours.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\06.FirstBiggerThanNeighbours\bin\Debug\06.FirstBiggerThanNeighbours.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\06.FirstBiggerThanNeighbours\obj\Debug\06.FirstBiggerThanNeighbours.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\06.FirstBiggerThanNeighbours\obj\Debug\06.FirstBiggerThanNeighbours.pdb

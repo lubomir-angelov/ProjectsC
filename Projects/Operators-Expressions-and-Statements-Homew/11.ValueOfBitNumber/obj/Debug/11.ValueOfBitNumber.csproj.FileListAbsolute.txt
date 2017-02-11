@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\11.ValueOfBitNumber\bin\Debug\11.ValueOfBitNumber.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\11.ValueOfBitNumber\bin\Debug\11.ValueOfBitNumber.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\11.ValueOfBitNumber\bin\Debug\11.ValueOfBitNumber.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\11.ValueOfBitNumber\obj\Debug\11.ValueOfBitNumber.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\11.ValueOfBitNumber\obj\Debug\11.ValueOfBitNumber.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\11.ValueOfBitNumber\obj\Debug\11.ValueOfBitNumber.csprojResolveAssemblyReference.cache

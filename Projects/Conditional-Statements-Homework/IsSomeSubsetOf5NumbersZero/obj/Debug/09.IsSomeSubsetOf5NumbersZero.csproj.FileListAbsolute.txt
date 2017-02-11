@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\IsSomeSubsetOf5NumbersZero\obj\Debug\09.IsSomeSubsetOf5NumbersZero.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\IsSomeSubsetOf5NumbersZero\bin\Debug\IsSomeSubsetOf5NumbersZero.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\IsSomeSubsetOf5NumbersZero\bin\Debug\IsSomeSubsetOf5NumbersZero.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\IsSomeSubsetOf5NumbersZero\bin\Debug\IsSomeSubsetOf5NumbersZero.pdb
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\IsSomeSubsetOf5NumbersZero\obj\Debug\IsSomeSubsetOf5NumbersZero.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\IsSomeSubsetOf5NumbersZero\obj\Debug\IsSomeSubsetOf5NumbersZero.pdb

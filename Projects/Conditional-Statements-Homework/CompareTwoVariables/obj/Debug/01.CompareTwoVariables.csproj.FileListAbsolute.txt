@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\CompareTwoVariables\bin\Debug\CompareTwoVariables.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\CompareTwoVariables\obj\Debug\CompareTwoVariables.exe
+D:\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\CompareTwoVariables\obj\Debug\CompareTwoVariables.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\CompareTwoVariables\bin\Debug\CompareTwoVariables.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\CompareTwoVariables\obj\Debug\CompareTwoVariables.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\Conditional-Statements-Homework\CompareTwoVariables\obj\Debug\CompareTwoVariables.pdb

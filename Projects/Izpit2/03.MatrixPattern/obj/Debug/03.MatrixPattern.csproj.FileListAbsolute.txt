@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\03.MatrixPattern\bin\Debug\03.MatrixPattern.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\03.MatrixPattern\bin\Debug\03.MatrixPattern.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\03.MatrixPattern\bin\Debug\03.MatrixPattern.pdb
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\03.MatrixPattern\obj\Debug\03.MatrixPattern.exe
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\03.MatrixPattern\obj\Debug\03.MatrixPattern.pdb
+D:\Programming\VisualStudioPrograms\Projects\Izpit2\03.MatrixPattern\obj\Debug\03.MatrixPattern.csprojResolveAssemblyReference.cache

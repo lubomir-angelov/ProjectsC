@@ -1,0 +1,26 @@
+﻿body {
+    background-color:darkgray;
+}
+h1, #responsetime, #lastatus {
+    color:lightgray
+}
+dt {
+    font-style:italic;
+    color:white
+}
+img {
+    width:12px;
+    height:12px
+}
+#name, #email, #lalink {
+    color:lightgoldenrodyellow
+}
+#namestatus, #status {
+    color:red
+}
+#pagesection {
+    width:350px;
+    height:350px;
+    background-color:dimgrey;
+}
+

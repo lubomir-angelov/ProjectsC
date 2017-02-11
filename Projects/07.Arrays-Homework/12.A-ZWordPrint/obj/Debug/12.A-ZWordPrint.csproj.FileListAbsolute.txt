@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\12.A-ZWordPrint\bin\Debug\12.A-ZWordPrint.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\12.A-ZWordPrint\bin\Debug\12.A-ZWordPrint.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\12.A-ZWordPrint\bin\Debug\12.A-ZWordPrint.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\12.A-ZWordPrint\obj\Debug\12.A-ZWordPrint.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\12.A-ZWordPrint\obj\Debug\12.A-ZWordPrint.pdb

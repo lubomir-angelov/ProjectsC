@@ -1,0 +1,6 @@
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\05.SortArrayOfStrings\bin\Debug\05.SortArrayOfStrings.exe.config
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\05.SortArrayOfStrings\bin\Debug\05.SortArrayOfStrings.exe
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\05.SortArrayOfStrings\bin\Debug\05.SortArrayOfStrings.pdb
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\05.SortArrayOfStrings\obj\Debug\05.SortArrayOfStrings.csprojResolveAssemblyReference.cache
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\05.SortArrayOfStrings\obj\Debug\05.SortArrayOfStrings.exe
+D:\UserProfiles\Visual Studio 2012\Projects\08.MultiDimArrays-HW\05.SortArrayOfStrings\obj\Debug\05.SortArrayOfStrings.pdb

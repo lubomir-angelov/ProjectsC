@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\03.StudentsFirstLastNameCompare\bin\Debug\03.StudentsFirstLastNameCompare.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\03.StudentsFirstLastNameCompare\bin\Debug\03.StudentsFirstLastNameCompare.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\03.StudentsFirstLastNameCompare\bin\Debug\03.StudentsFirstLastNameCompare.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\03.StudentsFirstLastNameCompare\obj\Debug\03.StudentsFirstLastNameCompare.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\03.StudentsFirstLastNameCompare\obj\Debug\03.StudentsFirstLastNameCompare.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\03.StudentsFirstLastNameCompare\obj\Debug\03.StudentsFirstLastNameCompare.pdb

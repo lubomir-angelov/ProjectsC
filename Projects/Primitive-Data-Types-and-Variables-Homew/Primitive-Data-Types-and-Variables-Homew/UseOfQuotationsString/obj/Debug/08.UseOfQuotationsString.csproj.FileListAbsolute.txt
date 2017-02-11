@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\UseOfQuotationsString\bin\Debug\UseOfQuotationsString.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\UseOfQuotationsString\obj\Debug\UseOfQuotationsString.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\UseOfQuotationsString\obj\Debug\UseOfQuotationsString.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\08.UseOfQuotationsString\bin\Debug\UseOfQuotationsString.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\08.UseOfQuotationsString\obj\Debug\UseOfQuotationsString.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\08.UseOfQuotationsString\obj\Debug\UseOfQuotationsString.pdb

@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\01.Runners\bin\01.Runners.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\01.Runners\bin\01.Runners.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\01.Runners\bin\01.Runners.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\01.Runners\obj\Debug\01.Runners.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\01.Runners\obj\Debug\01.Runners.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\01.Runners\01.Runners\obj\Debug\01.Runners.pdb

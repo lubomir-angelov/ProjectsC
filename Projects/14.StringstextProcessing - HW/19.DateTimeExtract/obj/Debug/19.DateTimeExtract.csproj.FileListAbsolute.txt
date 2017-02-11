@@ -1,0 +1,8 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.DateTimeExtract\bin\Debug\19.DateTimeExtract.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.DateTimeExtract\bin\Debug\19.DateTimeExtract.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.DateTimeExtract\bin\Debug\19.DateTimeExtract.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.DateTimeExtract\obj\Debug\19.DateTimeExtract.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.DateTimeExtract\obj\Debug\19.DateTimeExtract.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.DateTimeExtract\bin\Debug\19.DateTimeExtract.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.DateTimeExtract\obj\Debug\19.DateTimeExtract.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\19.DateTimeExtract\obj\Debug\19.DateTimeExtract.pdb

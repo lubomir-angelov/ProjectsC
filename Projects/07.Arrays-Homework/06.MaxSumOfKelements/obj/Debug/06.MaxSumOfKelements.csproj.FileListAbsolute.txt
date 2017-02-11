@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\06.MaxSumOfKelements\obj\Debug\06.MaxSumOfKelements.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\06.MaxSumOfKelements\bin\Debug\06.MaxSumOfKelements.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\06.MaxSumOfKelements\obj\Debug\06.MaxSumOfKelements.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\06.MaxSumOfKelements\obj\Debug\06.MaxSumOfKelements.pdb

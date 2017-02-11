@@ -1,0 +1,12 @@
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CopyrightSymbolTriangle\bin\Debug\CopyrightSymbolTriangle.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CopyrightSymbolTriangle\bin\Debug\CopyrightSymbolTriangle.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CopyrightSymbolTriangle\bin\Debug\CopyrightSymbolTriangle.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CopyrightSymbolTriangle\obj\Debug\09.CopyrightSymbolTriangle.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CopyrightSymbolTriangle\obj\Debug\CopyrightSymbolTriangle.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\CopyrightSymbolTriangle\obj\Debug\CopyrightSymbolTriangle.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\09.CopyrightSymbolTriangle\bin\Debug\CopyrightSymbolTriangle.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\09.CopyrightSymbolTriangle\obj\Debug\CopyrightSymbolTriangle.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\09.CopyrightSymbolTriangle\obj\Debug\CopyrightSymbolTriangle.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\09.CopyrightSymbolTriangle\bin\Debug\CopyrightSymbolTriangle.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\09.CopyrightSymbolTriangle\bin\Debug\CopyrightSymbolTriangle.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\09.CopyrightSymbolTriangle\obj\Debug\09.CopyrightSymbolTriangle.csprojResolveAssemblyReference.cache

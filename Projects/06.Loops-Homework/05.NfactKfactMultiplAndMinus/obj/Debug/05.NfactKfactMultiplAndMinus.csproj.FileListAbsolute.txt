@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\05.NfactKfactMultiplAndMinus\bin\Debug\05.NfactKfactMultiplAndMinus.exe.config
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\05.NfactKfactMultiplAndMinus\bin\Debug\05.NfactKfactMultiplAndMinus.exe
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\05.NfactKfactMultiplAndMinus\bin\Debug\05.NfactKfactMultiplAndMinus.pdb
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\05.NfactKfactMultiplAndMinus\obj\Debug\05.NfactKfactMultiplAndMinus.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\05.NfactKfactMultiplAndMinus\obj\Debug\05.NfactKfactMultiplAndMinus.exe
+D:\Programming\VisualStudioPrograms\Projects\06.Loops-Homework\05.NfactKfactMultiplAndMinus\obj\Debug\05.NfactKfactMultiplAndMinus.pdb

@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\09-16.ManipulateStudentClass\bin\Debug\09-16.ManipulateStudentClass.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\09-16.ManipulateStudentClass\bin\Debug\09-16.ManipulateStudentClass.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\09-16.ManipulateStudentClass\bin\Debug\09-16.ManipulateStudentClass.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\09-16.ManipulateStudentClass\obj\Debug\09-16.ManipulateStudentClass.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\09-16.ManipulateStudentClass\obj\Debug\09-16.ManipulateStudentClass.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\17.ExtMethodsLamdaLINQ - HW\09-16.ManipulateStudentClass\obj\Debug\09-16.ManipulateStudentClass.pdb

@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\21.Combinations\bin\Debug\21.Combinations.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\21.Combinations\bin\Debug\21.Combinations.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\21.Combinations\bin\Debug\21.Combinations.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\21.Combinations\obj\Debug\21.Combinations.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\21.Combinations\obj\Debug\21.Combinations.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\21.Combinations\obj\Debug\21.Combinations.csprojResolveAssemblyReference.cache

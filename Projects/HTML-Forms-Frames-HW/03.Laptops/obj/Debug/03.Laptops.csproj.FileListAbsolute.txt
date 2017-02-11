@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\03.Laptops\bin\03.Laptops.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\03.Laptops\bin\03.Laptops.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\03.Laptops\bin\03.Laptops.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\03.Laptops\obj\Debug\03.Laptops.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\03.Laptops\obj\Debug\03.Laptops.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\HTML-Forms-Frames-HW\03.Laptops\obj\Debug\03.Laptops.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WebForm", "01.WebForm\01.WebForm.csproj", "{F0213F1B-9332-4FB0-8298-CDA1021AAE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GradesTable", "02.GradesTable\02.GradesTable.csproj", "{84EBE839-C99E-41C8-B901-3F7D2E1C5EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Laptops", "03.Laptops\03.Laptops.csproj", "{4A4BC727-5A8A-46DB-841C-D65CD50CB46D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0213F1B-9332-4FB0-8298-CDA1021AAE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0213F1B-9332-4FB0-8298-CDA1021AAE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0213F1B-9332-4FB0-8298-CDA1021AAE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0213F1B-9332-4FB0-8298-CDA1021AAE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84EBE839-C99E-41C8-B901-3F7D2E1C5EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EBE839-C99E-41C8-B901-3F7D2E1C5EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EBE839-C99E-41C8-B901-3F7D2E1C5EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EBE839-C99E-41C8-B901-3F7D2E1C5EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4BC727-5A8A-46DB-841C-D65CD50CB46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4BC727-5A8A-46DB-841C-D65CD50CB46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4BC727-5A8A-46DB-841C-D65CD50CB46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4BC727-5A8A-46DB-841C-D65CD50CB46D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

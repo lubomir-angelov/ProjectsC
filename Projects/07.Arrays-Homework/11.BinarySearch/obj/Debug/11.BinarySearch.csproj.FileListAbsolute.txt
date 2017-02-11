@@ -1,0 +1,12 @@
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+D:\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\07.Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache

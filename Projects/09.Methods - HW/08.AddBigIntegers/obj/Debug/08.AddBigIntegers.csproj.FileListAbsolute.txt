@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\08.AddBigIntegers\bin\Debug\08.AddBigIntegers.exe.config
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\08.AddBigIntegers\obj\Debug\08.AddBigIntegers.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\08.AddBigIntegers\bin\Debug\08.AddBigIntegers.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\08.AddBigIntegers\bin\Debug\08.AddBigIntegers.pdb
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\08.AddBigIntegers\obj\Debug\08.AddBigIntegers.exe
+D:\Programming\VisualStudioPrograms\Projects\09.Methods - HW\08.AddBigIntegers\obj\Debug\08.AddBigIntegers.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\08.AddBigIntegers\bin\Debug\08.AddBigIntegers.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\08.AddBigIntegers\obj\Debug\08.AddBigIntegers.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\09.Methods - HW\08.AddBigIntegers\obj\Debug\08.AddBigIntegers.pdb

@@ -1,0 +1,5 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\PersonTesting\bin\Debug\PersonTesting.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\PersonTesting\bin\Debug\PersonTesting.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\PersonTesting\bin\Debug\PersonTesting.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\PersonTesting\obj\Debug\PersonTesting.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\20.Common-Type-System-HW\PersonTesting\obj\Debug\PersonTesting.pdb

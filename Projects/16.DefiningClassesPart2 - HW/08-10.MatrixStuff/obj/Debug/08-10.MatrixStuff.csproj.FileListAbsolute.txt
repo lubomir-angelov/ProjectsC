@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\08-10.MatrixStuff\bin\Debug\08-10.MatrixStuff.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\08-10.MatrixStuff\obj\Debug\08-10.MatrixStuff.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\08-10.MatrixStuff\bin\Debug\08-10.MatrixStuff.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\08-10.MatrixStuff\bin\Debug\08-10.MatrixStuff.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\08-10.MatrixStuff\obj\Debug\08-10.MatrixStuff.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\15.DefiningClassesPartI - HW\16.DefiningClassesPart2 - HW\08-10.MatrixStuff\obj\Debug\08-10.MatrixStuff.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\16.DefiningClassesPart2 - HW\08-10.MatrixStuff\bin\Debug\08-10.MatrixStuff.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\16.DefiningClassesPart2 - HW\08-10.MatrixStuff\obj\Debug\08-10.MatrixStuff.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\16.DefiningClassesPart2 - HW\08-10.MatrixStuff\obj\Debug\08-10.MatrixStuff.pdb

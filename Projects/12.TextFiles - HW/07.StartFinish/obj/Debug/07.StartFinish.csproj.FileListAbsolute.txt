@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\07.StartFinish\bin\Debug\07.StartFinish.exe.config
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\07.StartFinish\bin\Debug\07.StartFinish.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\07.StartFinish\bin\Debug\07.StartFinish.pdb
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\07.StartFinish\obj\Debug\07.StartFinish.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\07.StartFinish\obj\Debug\07.StartFinish.exe
+D:\Programming\VisualStudioPrograms\Projects\12.TextFiles - HW\07.StartFinish\obj\Debug\07.StartFinish.pdb

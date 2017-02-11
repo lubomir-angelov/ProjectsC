@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\12.URL\bin\Debug\12.URL.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\12.URL\bin\Debug\12.URL.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\12.URL\bin\Debug\12.URL.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\12.URL\obj\Debug\12.URL.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\12.URL\obj\Debug\12.URL.pdb

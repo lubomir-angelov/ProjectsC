@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.pdb
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.exe
+D:\Programming\VisualStudioPrograms\Projects\Primitive-Data-Types-and-Variables-Homew\Primitive-Data-Types-and-Variables-Homew\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.pdb

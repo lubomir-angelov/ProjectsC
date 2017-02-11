@@ -1,0 +1,6 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\01.School\bin\Debug\01.School.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\01.School\bin\Debug\01.School.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\01.School\bin\Debug\01.School.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\01.School\obj\Debug\01.School.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\01.School\obj\Debug\01.School.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\18.PrinciplesOfOOPPart1 - HW\01.School\obj\Debug\01.School.pdb

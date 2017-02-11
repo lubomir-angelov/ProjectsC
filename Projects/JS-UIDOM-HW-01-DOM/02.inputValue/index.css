@@ -1,0 +1,19 @@
+﻿body {
+    background-color:dimgray;
+}
+body button{
+    width:60px;
+    height:25px;
+    border:1px solid gray;
+    border-radius:5px;
+}
+body p {
+    font-family:Calibri;
+    font-size:20px;
+    color:darkblue;
+}
+    body input {
+        width:200px;
+        height:25px;
+        border:1px solid dimgray;
+    }

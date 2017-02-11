@@ -1,0 +1,22 @@
+﻿body {
+  background-color: #ffffff;
+}
+body ul#inline-list {
+  list-style-type: none;
+}
+body ul#inline-list li {
+  display: inline;
+}
+body ul#inline-list li a img {
+  height: 100px;
+  width: 100px;
+}
+body ul#inline-list li ul#absolute-list {
+  display: none;
+  position: absolute;
+}
+body ul#inline-list li ul#absolute-list li a img {
+  height: 400px;
+  width: 400px;
+}
+/*# sourceMappingURL=indexStyle.css.map */

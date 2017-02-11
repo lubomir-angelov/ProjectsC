@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\10.UnicodeCharLits\bin\Debug\10.UnicodeCharLits.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\10.UnicodeCharLits\bin\Debug\10.UnicodeCharLits.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\10.UnicodeCharLits\bin\Debug\10.UnicodeCharLits.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\10.UnicodeCharLits\obj\Debug\10.UnicodeCharLits.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\10.UnicodeCharLits\obj\Debug\10.UnicodeCharLits.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\10.UnicodeCharLits\obj\Debug\10.UnicodeCharLits.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\10.UnicodeCharLits\bin\Debug\10.UnicodeCharLits.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\10.UnicodeCharLits\obj\Debug\10.UnicodeCharLits.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\10.UnicodeCharLits\obj\Debug\10.UnicodeCharLits.pdb

@@ -1,0 +1,9 @@
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-08.Arrays\JS-HW-Arrays-01-07\bin\JS-HW-Arrays-01-07.dll.config
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-08.Arrays\JS-HW-Arrays-01-07\bin\JS-HW-Arrays-01-07.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-08.Arrays\JS-HW-Arrays-01-07\bin\JS-HW-Arrays-01-07.pdb
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-08.Arrays\JS-HW-Arrays-01-07\bin\JS-HW-Arrays-01-07.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-08.Arrays\JS-HW-Arrays-01-07\obj\Debug\JS_HW_Arrays_01_07.Resources.resources
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-08.Arrays\JS-HW-Arrays-01-07\obj\Debug\JS-HW-Arrays-01-07.vbproj.GenerateResource.Cache
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-08.Arrays\JS-HW-Arrays-01-07\obj\Debug\JS-HW-Arrays-01-07.dll
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-08.Arrays\JS-HW-Arrays-01-07\obj\Debug\JS-HW-Arrays-01-07.xml
+C:\Other\Programming\VisualStudioPrograms\Projects\JS-HW-08.Arrays\JS-HW-Arrays-01-07\obj\Debug\JS-HW-Arrays-01-07.pdb

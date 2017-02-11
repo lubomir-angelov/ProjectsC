@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\12.NHoldValueFromBinRepN\bin\Debug\12.NHoldValueFromBinRepN.exe.config
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\12.NHoldValueFromBinRepN\obj\Debug\12.NHoldValueFromBinRepN.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\12.NHoldValueFromBinRepN\bin\Debug\12.NHoldValueFromBinRepN.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\12.NHoldValueFromBinRepN\bin\Debug\12.NHoldValueFromBinRepN.pdb
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\12.NHoldValueFromBinRepN\obj\Debug\12.NHoldValueFromBinRepN.exe
+D:\Programming\VisualStudioPrograms\Projects\Operators-Expressions-and-Statements-Homew\12.NHoldValueFromBinRepN\obj\Debug\12.NHoldValueFromBinRepN.pdb

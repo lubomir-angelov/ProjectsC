@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\05.Uppercase\bin\Debug\05.Uppercase.exe.config
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\05.Uppercase\bin\Debug\05.Uppercase.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\05.Uppercase\bin\Debug\05.Uppercase.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\05.Uppercase\obj\Debug\05.Uppercase.exe
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\05.Uppercase\obj\Debug\05.Uppercase.pdb
+D:\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\05.Uppercase\obj\Debug\05.Uppercase.csprojResolveAssemblyReference.cache
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\05.Uppercase\bin\Debug\05.Uppercase.exe.config
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\05.Uppercase\obj\Debug\05.Uppercase.exe
+C:\Other\Programming\VisualStudioPrograms\Projects\14.StringstextProcessing - HW\05.Uppercase\obj\Debug\05.Uppercase.pdb

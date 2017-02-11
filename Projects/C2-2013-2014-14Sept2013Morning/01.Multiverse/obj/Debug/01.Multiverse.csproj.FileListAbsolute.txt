@@ -1,0 +1,6 @@
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\01.Multiverse\bin\Debug\01.Multiverse.exe.config
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\01.Multiverse\bin\Debug\01.Multiverse.exe
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\01.Multiverse\bin\Debug\01.Multiverse.pdb
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\01.Multiverse\obj\Debug\01.Multiverse.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\01.Multiverse\obj\Debug\01.Multiverse.exe
+D:\Programming\VisualStudioPrograms\Projects\C2-2013-2014-14Sept2013Morning\01.Multiverse\obj\Debug\01.Multiverse.pdb
